@@ -1,0 +1,9 @@
+{
+  "macro_f1": 0.8477115824087642,
+  "base_model": "ProsusAI/finbert",
+  "dataset": "atrost/financial_phrasebank",
+  "train_size": 3100,
+  "val_size": 776,
+  "test_size": 970,
+  "note": "Switched from Twitter dataset to FinancialPhraseBank after confirming domain mismatch on real transcript-style sentences."
+}

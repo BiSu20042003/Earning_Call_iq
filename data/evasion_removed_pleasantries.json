@@ -1,0 +1,2112 @@
+[
+  {
+    "symbol": "AAPL",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Mike Ng",
+    "question": "Wonderful. Thank you, Tim.",
+    "answer": "Yes. Thank you, Mike. Operator, can we have the next question please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Wamsi Mohan",
+    "question": "Thank you so much, Tim.",
+    "answer": "Thanks, Wamsi. Operator, we'll take the next question please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Amit Daryanani",
+    "question": "Perfect. That's a really good perspective to have. Thank you very much.",
+    "answer": "Thank you, Amit. Operator, can we have the next question please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Aaron Rakers",
+    "question": "Thank you.",
+    "answer": "Thanks, Aaron. Operator, can we have the next question please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Krish Sankar",
+    "question": "Great. Thanks a lot Tim. Very interesting to hear. Thank you.",
+    "answer": "Thank you, Krish. Operator, can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "David Vogt",
+    "question": "Got it. Thanks, guys.",
+    "answer": "Thank you, David. Operator, can we have the last question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Ben Reitzes",
+    "question": "Thanks Tim.",
+    "answer": "Yes, Thanks, Ben. All right. Thank you Ben. A replay of today's call will be available for two weeks on Apple Podcasts, as a webcast on apple.com/investor and via telephone. The number for the telephone replay is 866-583-1035. Please enter confirmation code 0106234 followed by the pound sign. These replays will be available by approximately 5 p.m. Pacific time today. Members of the press with additional questions can contact Josh Rosenstock at 408-862-1142 and financial analysts can contact me, Suhasini Chandramouli, with additional questions at 408-974-3123. Thanks again for joining us.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Harsh Kumar",
+    "question": "Yes. Hey, guys. Thanks for squeezing me in. Tim, you're one of the largest chip companies. You're not a component maker. You actually use your own products. But we almost never hear in any context of you guys being a beneficiary, Apple being a beneficiary for either the Chip Act money or the R&D tax credit that's being proposed. I was just curious if you are eligible for any of those. And then I've got a follow up.",
+    "answer": "I don't see Apple participating in the Chips Act directly, but we would be a beneficiary indirectly because some of our partners would hopefully be recipients of it and therefore put in additional capacity. And so on that sort of indirect basis, we would have a benefit.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Mike Ng",
+    "question": "Excellent. Thank you very much.",
+    "answer": "Awesome. Thank you, Mike. Operator, can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Wamsi Mohan",
+    "question": "Thank you so much.",
+    "answer": "Thanks, Wamsi. We'll take the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Erik Woodring",
+    "question": "Thank you so much.",
+    "answer": "Great. Thank you, Erik. Operator, we'll take the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Ben Reitzes",
+    "question": "Thanks, Tim.",
+    "answer": "Yes. Thanks, Ben. Can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Krish Sankar",
+    "question": "Got it. Thank you very much, Luca, and thanks, Tim.",
+    "answer": "Thank you, Krish. Operator, we'll have the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Amit Daryanani",
+    "question": "Great. Thank you.",
+    "answer": "Thanks, Amit. Operator, we'll take the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "David Vogt",
+    "question": "Great. Thanks guys. I'll get back in the queue.",
+    "answer": "Thanks, David. Operator, we'll take the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Samik Chatterjee",
+    "question": "Got it. Thank you. Thanks for that.",
+    "answer": "Yes. Thank you, Samik. Operator, we'll have the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Aaron Rakers",
+    "question": "Thank you.",
+    "answer": "Yes. Thank you, Aaron. Operator, we'll take the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Richard Kramer",
+    "question": "Okay. Super. Thanks, guys.",
+    "answer": "Thank you, Richard. Operator, can we take our last question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.95
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Atif Malik",
+    "question": "Thank you.",
+    "answer": "Thank you, Atif. A replay of today's call will be available for two weeks on Apple podcasts as a webcast on apple.com/investor and via telephone. The number for the telephone replay is 866-583-1035. Please enter confirmation code 0467138 followed by the pound sign. These replays will be available by approximately 5:00 P.M. Pacific Time today. Members of the press with additional questions can contact Josh Rosenstock at 408-862-1142, and financial analysts can contact me, Suhasini Chandramouli, with additional questions at 408-974-3123. Thank you again for joining us.",
+    "label": "EVASIVE",
+    "confidence": 0.95
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Krish Sankar",
+    "question": "Yes, yes, your retail stores.",
+    "answer": "Yes. The -- if you look at retail, it's a key part of our go-to-market approach, and it will be so key and such a competitive advantage with Vision Pro. It will give us the opportunity to launch a new product and demo to many people in the stores. And so it has many advantages in it. And we continue to roll out more stores. As you know, we just opened 2 in India last quarter. We're -- there's still a lot of countries out there that don't have Apple stores that we would like to go into. And so we continue to see it as a key part of how we go to market and love the experience that we can provide customers there. A replay of today's call will be available for two weeks on Apple Podcasts, at a webcast of apple.com/investor and via telephone. The number for the telephone replay is 866-583-1035. Please enter the confirmation code 2553017, followed by the pound sign. These replays will be available by approximately 5 p.m. Pacific Time today. Members of the press with additional questions can contact Josh Rosenstock at 408-862-1142. Financial analysts can contact me, Saori Casey, with additional questions at 408-974-3123 while Suhasini Chandramouli is on her maternity leave. Thank you again for joining us.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Erik Woodring",
+    "question": "Great. Thanks so much.",
+    "answer": "Yeah. Thank you, Erik. Operator, may we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Ben Reitzes",
+    "question": "Okay. Thanks a lot.",
+    "answer": "Thank you Ben. Operator may we have the next question please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Mike Ng",
+    "question": "Great. Thank you Tim.",
+    "answer": "Thanks Mike. Operator, can we have the next question please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Krish Sankar",
+    "question": "Thanks Tim.",
+    "answer": "Thank you Krish. Operator, can we have the next question please.",
+    "label": "EVASIVE",
+    "confidence": 0.95
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "David Vogt",
+    "question": "Great. Thank you very much.",
+    "answer": "Thank you David. Operator may we have the next question please.",
+    "label": "EVASIVE",
+    "confidence": 0.95
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Atif Malik",
+    "question": "Very helpful. Thank you.",
+    "answer": "Thank you Atif. Operator may we have the next question please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Samik Chatterjee",
+    "question": "Thank you.",
+    "answer": "Thank you Samik. Operator, may we have the last question please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Richard Kramer",
+    "question": "Okay. Thanks.",
+    "answer": "Thank you, Richard. A replay of today's call will be available for two weeks on Apple Podcasts, as a webcast on apple.com/investor, and via telephone. The number for the telephone replay is (866)-583-1035. Please enter confirmation code 1969407 followed by the pound sign. These replays will be available by approximately 5 p.m. Pacific Time today. Members of the press with additional questions can contact Josh Rosenstock at (408)-862-1142. And financial analysts can contact me, Suhasini Chandramouli with additional questions at (408)-974-3123. Thank you again for joining us today.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Michael Ng",
+    "question": "Excellent. That's very clear. Thank you, Tim.",
+    "answer": "Yeah. All right. Thanks, Mike. Can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.95
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Aaron Rakers",
+    "question": "Thank you.",
+    "answer": "Thanks, Aaron. Can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.95
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Erik Woodring",
+    "question": "Great. Thanks so much for the color, guys.",
+    "answer": "Thanks, Eric. Can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "David Vogt",
+    "question": "Got it. So the weakness in iPad and Wearables are less of an impact on sort of the margin trajectory in the December quarter?",
+    "answer": "That's correct.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "David Vogt",
+    "question": "I guess?",
+    "answer": "That's correct.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "David Vogt",
+    "question": "Got it. Thanks, Luca.",
+    "answer": "All right. Thanks, David. We'll take our next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Amit Daryanani",
+    "question": "Perfect. Thank you.",
+    "answer": "Thanks, Amit. We'll take the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Harsh Kumar",
+    "question": "Thanks, Tim.",
+    "answer": "Yeah. Thank you, Harsh. We'll take the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Wamsi Mohan",
+    "question": "Okay. Thank you, Tim.",
+    "answer": "Thank you, Wamsi. Can we have the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Krish Sankar",
+    "question": "Thanks, Tim.",
+    "answer": "Thank you, Krish. We'll now take our next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Ben Reitzes",
+    "question": "Got it. Thanks.",
+    "answer": "Yeah.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Ben Reitzes",
+    "question": "Thanks a lot everybody. Appreciate it, Luca.",
+    "answer": "Thank you, Ben. And we'll take the last question now.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Richard Kramer",
+    "question": "Absolutely. Thanks very much.",
+    "answer": "Thank you, Richard. A replay of today's call will be available for two weeks on Apple Podcasts, as a webcast on apple.com/investor and via telephone. The number for the telephone replay is 866-583-1035. Please enter confirmation code 0106234 followed by the pound sign. These replays will be available by approximately 5 PM Pacific Time today. Members of the press with additional questions can contact Josh Rosenstock at 408-862-1142 and financial analysts can contact me, Suhasini Chandramouli, with additional questions at 408-974-3123. Thank you again for joining us today.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Michael Ng",
+    "question": "Great. Thank you, Tim. Thank you, Luca.",
+    "answer": "All right. Thanks, Mike. Can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Erik Woodring",
+    "question": "Okay. That's really helpful. Thank you, Tim.",
+    "answer": "Yeah, thank you.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Erik Woodring",
+    "question": "Great. Thanks so much, Luca.",
+    "answer": "Thank you, Erik. Can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Ben Reitzes",
+    "question": "Thanks a lot, Tim. Appreciate it.",
+    "answer": "Thanks, Ben. Thank you, Ben. Can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Amit Daryanani",
+    "question": "Great. Thank you very much.",
+    "answer": "Thanks, Amit. Can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "David Vogt",
+    "question": "Great. Thanks, Tim, and best of luck, Luca.",
+    "answer": "Thank you very much. Thank you, David. We'll take the next question, please.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Wamsi Mohan",
+    "question": "Okay. Thanks, Tim.",
+    "answer": "Yeah.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Wamsi Mohan",
+    "question": "Okay. Thank you, Tim.",
+    "answer": "Yeah. Thank you. Thank you, Wamsi. May we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Krish Sankar",
+    "question": "Got it. Thanks, Tim.",
+    "answer": "Yeah. All right. Thank you, Krish. Can we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Samik Chatterjee",
+    "question": "Okay. Thank you. I'll leave it there. Thank you.",
+    "answer": "All right. Thank you, Samik. Operator, may we have the next question, please?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AAPL",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Richard Kramer",
+    "question": "Okay. Thank you very much.",
+    "answer": "Thank you, Richard. We'll take our last question, please, operator?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AMZN",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "John Blackledge",
+    "question": "International segment margin.",
+    "answer": "Yeah, this is Dave. Just real quick on that. You mentioned we're about $300 million profit for the quarter. That is up about 390 basis points year-on-year from a margin perspective. And as we talked about in the past, there's a number of countries that different stages of existence and maturity there. And so I think you're seeing continued progress, certainly on a year-over-year basis with both our established countries. So the UK, Germany and Japan in particular, being sizable contributors to that business, continued improvement and build out there, similar to the factors we talked about with the U.S., focused on operational efficiency while expanding the customer experience. And then in the emerging countries, as we've said over the past several quarters, we launched about 10 countries over the last seven years really focused on, again, expanding that customer experience, building out the Prime member benefits while building scalable solutions for customers. And so I think in both that established and emerging areas, seeing good progress year-over-year in working for further improvement there.",
+    "label": "DIRECT",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "AON",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Andrew Kligerman",
+    "question": "Got it. Okay. And then Christa mentioned about $200 million to $225 million of CapEx expenditure targeted for this year. You're doing so many interesting things with ABS and other technologies. Anything stand out that you're investing in right now that will drive future growth?",
+    "answer": "I mean, the CapEx that I mentioned, the $200 million to $225 million, Andrew, I would say, is primarily focused on IT investments to drive long-term growth. So whether that's scale investments in our platforms to help clients innovate or whether that's in security and infrastructure to keep our clients better protected and the firm better protected, and so we're investing a lot in our Aon Business Services platform, better connectivity, better data analytics, better insight. And it's really helping our clients deliver great value to our clients -- our colleagues deliver great value to our clients.",
+    "label": "DIRECT",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "AON",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Elyse Greenspan",
+    "question": "And one last one, going back to that Wealth tough Q2 comp comment. You guys saw 3% organic in Wealth last Q2. So was it just that these performance fees were elevated and there were just other businesses that offset that? It just -- it doesn't seem like a tough comp. So I just want to make sure I'm not missing something.",
+    "answer": "Yes, it's simply about the performance fee. As you know, Elyse, performance fees are lumpy as we communicated.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "AON",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Michael Ward",
+    "question": "Thanks, guys. Good morning. I think you guys implied that the T&E headwind was much larger in the first quarter. I was wondering if that means you expect more margin expansion over the balance of the year.",
+    "answer": "Michael, we don't give margin expansion guidance for the full year. What we can say is over the last 12 years, we've driven 1,120 basis points of margin expansion or approximately 90 basis points per year. It is -- we expect to drive margin expansion each and every year. It's not neatly 90 basis points per year because it's lumpy. And it really what it is. It's us driving gross margin expansion net of investments. And the amount we invest every year is dependent upon our opportunities for long-term growth. I would say, specifically on your T&E point, T&E was a bigger headwind this quarter because Q1 '22 had a very low T&E expense, given what was going on with COVID.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "AON",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Josh Shanker",
+    "question": "I'm saying that your 9% boost to revenues in the back half of '22 in the reinsurance segment due to acquisitions and only 1% in 1Q, I assume there's a 12-month impact on any acquisitions you make. It was less pronounced because of the volumes, I guess, in 1Q. I'm trying to think -- yes, yes.",
+    "answer": "So the acquisition around Tyche was much more advisory services, less property cat, but more pricing support and data and analytics support for those clients. A lot of the activity in the second half of last year was driven by FAC and cat bonds. So I would say that's how I would think about it.",
+    "label": "DIRECT",
+    "confidence": 0.85
+  },
+  {
+    "symbol": "AON",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Josh Shanker",
+    "question": "Okay. And then I want to follow up a little bit on...",
+    "answer": "And, Josh...",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Josh Shanker",
+    "question": "Yes, go ahead.",
+    "answer": "Well, sorry, Josh, we closed Tyche in Q1. And so you will see Tyche growth included in organic growth from Q2 onwards. It will be under, as Eric said, our strategy and technology group with be advisory part of reinsurance.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "AON",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Jamminder Bhullar",
+    "question": "Okay. And then just following up on buybacks. I'm assuming this year is going to be lower than last year, partly because of the drag because of NFP and also the drag because of the restructuring program. But if we think about 1Q, was it also depressed because of just seasonality of cash flows? Or is this sort of a normal quarter in terms of buybacks.",
+    "answer": "Yes. So Jimmy, thank you for the question. And I did actually give specific guidance in my opening remarks about buyback because I recognize that there's a lot of puts and takes around free cash flow as we've communicated. And while buyback will be lower than last year, we expect it will still be substantial for the full year 2024 at $1 billion or more based on our current M&A expectations for the rest of the year. And as we mentioned, Q1 is our seasonally smallest free cash flow quarter.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Elyse Greenspan",
+    "question": "And then one more on the margin side, you gave the baseline, Christa, 30.6% for this year. I know in the past, you'll typically point to your historical kind of 80 to 90 basis points of margin improvement annually. Is that the right way to think about the improvement off of the 30.6% given the puts and takes of fiduciary investment income savings and then just leverage against your revenue growth?",
+    "answer": "So Elyse, the 30.6% is absolutely the right starting point, to 2024 margin expansion. We don't give specific guidance. What we do say is we're committed to margin expansion each and every year, including 2024 of that 30.6% margin base. But all the drivers still hold. We're driving margin expansion due to organic revenue growth, portfolio mix shift and synergies and efficiencies from Aon Business Services.",
+    "label": "EVASIVE",
+    "confidence": 0.6
+  },
+  {
+    "symbol": "AON",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Meyer Shields",
+    "question": "Okay. No, that's fair. Makes sense that gets modeled in. For reporting purposes, is NFP's organic growth going to be included in the organic growth number that you report on a consolidated basis?",
+    "answer": "Yes, it is. And so that's why we've broken out in the numbers, Meyer. The revenue from NFP in that table of 2023, by quarter by solution lines, you can add it in. And so the way you do that for revenue as you add 2 months of 2020 of Q2 of NFP plus the 3 months of Aon as your starting point for 2023 and then you grow that. And you will see the NFP numbers come through on that M&A table in our organic table.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Rob Cox",
+    "question": "And maybe moving back to commercial risk. If we exclude these external factors on the M&A services business, is it fair to assume that the remainder of the business accelerated sequentially, kind of along with the accelerated renewal premium change that we saw in the market this quarter?",
+    "answer": "I mean, Rob, we're not giving specific guidance on commercial risk at that level? What we would say is we're extremely excited about year-to-date growth of 7% overall for AON. And on track to mid-single-digit or greater organic revenue growth for the full year. And obviously, we've had a real headwind in this M&A area given transaction volume, as Greg described, is down 30% to 40%, and we expect that softness to continue into the second half of the year.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "AON",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Elyse Greenspan",
+    "question": "My first question, Christa, I think last quarter, you had pointed to CapEx of around $200 million to $225 million for the year. I just want to confirm that, that's still your kind of best estimate there. And so with the improvement in free cash flow in the back half, I guess it's going to come from a combination of lower CapEx and just growth in operating cash flow.",
+    "answer": "Elyse, we actually have increased our CapEx guidance to be $220 million to $250 million for 2023 and that's really driven by the investments we're making across Aon Business Services platforms and applications. to drive future growth. And so we're really excited about that. The improvement in free cash flow and the double-digit free cash flow growth for the year is going to be driven by operating income growth and working capital. And I did note that second half free cash flow growth is always significantly stronger than first half.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "David Motemaden",
+    "question": "And also just to clarify, so tough comps in this business in the second half of '22 -- or I guess the comps are definitely easier. I think second half of '22 is very depressed. So -- is it that you guys -- you guys aren't expecting it to be down again off of that depressed base, but it's more just you don't see a recovery off of that depressed base? Is that the right way to put it?",
+    "answer": "It's literally as simple as you almost listen to the investment bank calls. We can talk to the CEOs of those divisions. As that activity comes back, we are incredibly well positioned, not just in the core areas we've done before, but also with the broader commercial applications, as Eric described before. So we've just gotten stronger. Literally as the transactions come back and the volume comes back, we're there. And so you can predict as well as anyone. All we're trying to do is be clear.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "AON",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Elyse Greenspan",
+    "question": "Hi, thanks. Good morning. Before I get into the questions, I just -- also just want to extend my congrats to Christa just on your successful career at Aon.",
+    "answer": "Thanks so much, Elyse.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "David Motemaden",
+    "question": "Hey, thanks. Good morning. Also, I wanted to extend my congratulations to Christa and wish you good luck on the next chapter.",
+    "answer": "Thanks so much, David.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Meyer Shields",
+    "question": "Great, thanks. Thanks so much. I also want to congratulate Christa on never having to take another question from me except for this one.",
+    "answer": "Thank you, Meyer.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Meyer Shields",
+    "question": "My pleasure. Is it safe to say that the geographic footprint of earnings, including NFP, with regard to taxes is different than legacy Aon over the last decade?",
+    "answer": "We are definitely more US weighted, that is true, because NFP is more US weighted.",
+    "label": "DIRECT",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "AON",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Cave Montazeri",
+    "question": "Yes. I just wanted to follow up on your comments you just made on the last question. The NFP, the legacy NFP producers, are they already using the new tools from Aon? Or is that something that's going to take a bit longer to give them access to?",
+    "answer": "So in the planning process leading up to the close and then in the 90 days since we've closed, we've put a significant amount of work to connect them first with products and capabilities because I think that's the easiest thing to get started with. And then we're laying the track to be able to provide the analytic capabilities, both in Health, Wealth and in Risk, which will take a little bit of time as we go through the year. But we started with opening access to our broking center, opening products that we have an affinity or programs we have in Risk and Health to be able to offer them to their client base. So we've started with the things that are easier to connect, and we're laying the plans to do some of the more -- sort of the more structural things around analytics.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Michael Zaremski",
+    "question": "Okay. Got it. That 2 points isn't too meaningfully different than the kind of historical. Okay. Got it.",
+    "answer": "Yes. That's in-line.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "AON",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Michael Zaremski",
+    "question": "Okay. And maybe just switching gears, curious on the NFP acquisition, clearly going well. At the time of the deal was announced, you did talk about a potential for some fairly material revenue synergies. I think in some investors' minds, revenue synergies are a lot of hard work. Just curious if you think you'll be updating us on those going forward? Or any comments you'd like to make about revenue synergies from the deal?",
+    "answer": "It’s a great question because it's clearly a focus of ours. It's clearly a focus of ours, for sure. Five months in Q3, the performance right in-line with or better than the business case, and mid-single digit in the quarter, accretive to Commercial, accretive to Wealth. As I think about the four financial objectives that we put out there, revenue synergies and OpEx was one of them. And Eric can jump in here, but we talk about the cross-sell that's going to NFP and coming from NFP, I feel very good about our expectations of $175 million in 2026 on the OpEx synergies of $60 million by 2026 as well. I talked about in line or better, and what I'd point to there is the EPS accretion as we think about 2025. We talked about it being neutral during that time. And I'd say, we're tracking to be better than that. So we'll definitely give updates on those numbers as well as the free cash flow and the M&A performance that's happening in NFP as well. But Eric, I don't know if you want to add any color on the [Technical Difficulty]. Sure, yes. Let me add a little bit of color on it. I think the -- so a couple of ways I would approach this, the independent and connected philosophy when we -- sort of we're talking to NFP about the opportunity to become part of Aon was really about using those 8,000 people we talked about on a talent question around how we can actually deliver more capability for each other. And we are really seeing, whether it's an NFP client relationship that needs additional subject matter expertise, whether it is trade credit or transaction services or D&O or what have you or the CyQu example that Greg used. So the ability to partner relationships and expertise where we've already got a business relationship, we are really seeing that gather momentum. And that's just on the risk side. On the Health side, it's very similar our health analyzer being able to bring tools to their clients, being able to bring the pharmacy benefit, being able to bring the global connectivity. So we also were very conservative in how we look at revenue synergies, recognizing that those are really hard to pull off. But we thought that with this independent and connected strategy, our ability to actually bring that capability together, it is an education process, and I think as Edmund said, we're five months into this. And our ability to sort of showcase Aon capability, understand NFP relationships and really begin to work together towards driving sort of client value. One of our hypotheses going into this was the mid-market segment is more risky and more complicated across risk, health and wealth. And our ability to bring that talent into that segment in a way that that segment can digest and use it was one of the key aspects of why we wanted to partner up with NFP. And so I do think that opportunity is starting to bear fruit for us as we go down the road. And then the other piece I would offer is certainly our ability, when we go into the marketplace, whether it's commission rate standardization, how we actually bring all of the premium volume on the risk side into the market, has also -- is a concrete example of how sort of two are better than one in that example. And sorry, not to pile on with NFP just given the progress that the teams have made jointly, but listen fundamentally, this is demand. We saw huge demand and opportunity in the middle market, of all the issues that Eric just described, and our ability to actually bring content through what is an incredibly strong set of client relationships that NFP brings to the table. They're really exceptional. And that's really the combination. The last piece I just would highlight, and we mentioned it in the opening comments, is not just in the day-to-day business as it currently exists. If you think about the M&A pipeline, independent and connected has real meaningful value there in terms of all the operating flexibility that we are describing in independent and connected with additional capability. And that's also actually showing up in talent and hires who want to come be part of it. So as Edmund said, it's five months. We run everything a piece at a time, a step at a time. But it’s really been a good start to the process, and we’re more excited than ever.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Dean Criscitiello",
+    "question": "You guys noted that aggregate pricing was flat this quarter, but I was curious if that -- were there any differences between the middle market and larger accounts? And if you guys had any assumptions going forward on pricing.",
+    "answer": "Why don't I take that one, guys? Listen, I think -- and I think I've said it before, but I think it is always worth sort of saying where the pricing actually fits into the work that we do. So we first start with our clients around how do we actually identify and help them understand what risk they have in the business. And then we actually think through with them, what are your options to manage the risk, whether it is to finance it yourself, whether it's to use captives that we've talked about in the past. And then ultimately, if you decide to transfer the volatility, how are you going to do that? And as you sort of ask with the segments, I would say there is multiple markets out there, whether it is -- if the question was US or whether it is outside the US and Latin America, in Europe and Asia, et cetera. And then there is industry bent and then there is segment bent. So you get a variety of different market approaches based on what the risks are of the individual clients. But if I were to bucket it for you, I would say, on a property basis, I’d say, for those clients that deserve to see premium decreases based on their risk exposure, we are seeing that happen, and we continue to expect that. I think casualty, especially in North America, and this is up and down the segment, continues to see pressure, whether it is because of increased loss cost, social inflation, things that you know well about, is driving pricing increases and a sort of restriction of appetite from the insurers. And then there is sort of bucket called specialty casualty between D&O, cyber that type of thing. We're continuing to see a surplus of capital that's in that space, and so opportunities for clients to really obtain some premium relief for their different risks. But listen, there is ultimately capital in all the segments. And so we do see an opportunity for clients, whether you are a small client, a midsized client or a large client, to actually be able to make some buying choices based on surplus capital in some of the key areas.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Dean Criscitiello",
+    "question": "Thank you for that. And then my follow-up, I was curious as to the lower interest rates than the expectation for additional interest rate cuts have any implications on the growth outlook in either the Health or the Wealth segment.",
+    "answer": "I think the big impact that we expect to experience from interest rate impact is on the fiduciary investment income line. And as I said in my prepared remarks, illustratively about 100 basis points has approximately a $70 million impact on that business. Of course, you need to think about the growth in those balances. You think about the lower expense that we have because of our term-loan debt, as well as we need to think about where the currencies are located, less than 60% are in the US and then they're in euro and GBP. That's the biggest impact on our business. And as I said earlier, we still expect to be able to hit our objectives across the firm, across each of our solution lines despite the interest rate environment. So that's what I'd call out to you.",
+    "label": "DIRECT",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "AON",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Dean Criscitiello",
+    "question": "Got it. Thank you.",
+    "answer": "Think about the overall profile as it relates to Health and Wealth. Listen, this opportunity is fundamentally unlimited on the Health side. This has gone up. This is health care inflation. And this is projected to be up 9%, 10% again in '25, is unbelievably challenged profile for our clients, and that really is the demand driver on the Health side. And similar on the Wealth side, if we think about pension risk transfer, and some of the other things that come, the changing rate environments, the demand in both categories, both solution lines, is exceptionally strong.",
+    "label": "EVASIVE",
+    "confidence": 0.6
+  },
+  {
+    "symbol": "AON",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Rob Cox",
+    "question": "Got it. Appreciate that. And maybe just a follow-up on pricing. I think some of the other brokers have talked about expectations for fairly stable P&C pricing in 2024. I'm curious if Aon shares that view, if there is any other color you'd want to add-on the pricing trajectory?",
+    "answer": "So I think a number of people have commented on it during this earning season. I would say that we're probably heading towards a market where it's more of a series of markets where you see price competitive - price competitiveness in certain areas, where new capital has drawn in D&O for example, would be one that's been called out. You also see challenges still in certain parts of property and people are a little worried about casualty as social inflation from nuclear verdicts have kind of hit the wires. And they're worried about prior year reserves. So, I think rather than just a rising market for all what we're going to see over '24 and '25, it's going to be very product specific and very risk specific, which is something that I think plays well to us, because it allows to use our teams in our analytics, to able to help them think through, how they either want to trade, or manage the risks. And so, but I think that's where we see the market going in '24 and '25. I maybe just add Rob as well, if you think about impact as it relates to our overall performance bringing it back to Aon. We've talked about mid-single-digit or greater. We don't see anything changing that view. Again, pricing is one aspect, we talked about market impact which includes insured values in a number of other pieces that, fit into the equation. Our ability to work with clients in any type of marketplace than our advantage in doing so. And so, our view is, market will be, what it will be a series of markets as Eric just described. But our ability to deliver mid-single-digit or greater. We feel like, we're going into '24 with a lot of momentum behind.",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "AON",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elyse Greenspan",
+    "question": "Thanks. And then one more the savings. I know, Christa, you reaffirmed on the $100 million for '24, it doesn't sound like there were any that came through in the fourth quarter. So. I guess we'll start seeing the savings flow through in the first-quarter, is that correct?",
+    "answer": "That's correct. Elyse.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Elyse Greenspan",
+    "question": "Is the $45 million to $60 million of EBITDA from M&A from NFP that you mentioned, Edmund, is that included within your 2025 guidance?",
+    "answer": "Yes. Yes, it is, both on the revenue impact associated, with that is captured in the margin and the overall earnings growth as well. So all of that is embedded.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "AON",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Elyse Greenspan",
+    "question": "And then one last one. Sorry, go ahead.",
+    "answer": "No, go ahead. I'm sorry, Elyse, go ahead.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Steven Chubak",
+    "question": "Hi, good morning.",
+    "answer": "Good morning.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Betsy Graseck",
+    "question": "Hi, good morning.",
+    "answer": "Good morning.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Gerard Cassidy",
+    "question": "Good morning, David. Good morning, Denis.",
+    "answer": "Good morning.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Betsy Graseck",
+    "question": "Okay. All right. Great. Just want to make sure.",
+    "answer": "We can hear you fine. Thank you.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Betsy Graseck",
+    "question": "Thanks.",
+    "answer": "Look, to give you some color on that, I wouldn't point to any particular discrete item. I would say the revenue generation, the activity was broad-based. But in addition to the consequence of the focus on market share and wallet share that we've made across the client franchise over time, we also did see good opportunities to risk intermediate on behalf of clients across geographies, across asset classes. And I would observe that over the course of the quarter, it was just a very benign operating environment. Credit spreads were tightening, equity valuations were going up, and that provides a tailwind to our performance across portions of our Global Banking and Markets business as well. The first quarter is obviously often seasonally strong as well. So we think we really captured a lot of the opportunity that was presented by both the environment and our client engagement. And as David said, that may not necessarily be the case each and every quarter, particularly in FICC and Equities. So, when we talk about like a Global Banking and Markets segment overall, clearly more upside across banking, but a strong performance across both FICC and Equities in Q1.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "GS",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Steven Chubak",
+    "question": "Hey, good morning. So, wanted to follow up, David, on --",
+    "answer": "Good morning. Good morning.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Matt O'Connor",
+    "question": "Good morning. Actually, just to follow up on the last question and comment, the run-off of the historical principal investment from the $15 billion here, the $2 billion that you just referenced, is that the run-off that you expect, or was that alluding to the revenues per year?",
+    "answer": "Sure. Thanks. Let me clarify. I was making a comment with respect to revenue and then separately as it relates to the rundown of that portfolio, I guess the way to think of it, picking up questions from last earnings and/or this one. The progress that we made in the first quarter of roughly $1.5 billion, we think that's decent assumption for the pace over the course of this year. And then we just reiterated our commitment to selling down substantially all of it in line with our target.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Matt O'Connor",
+    "question": "Okay. So focus much more on the legacy on balance sheet positions versus the consumer lending portfolios?",
+    "answer": "Yes.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Betsy Graseck",
+    "question": "Hi, good morning.",
+    "answer": "Good morning, Betsy.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Steven Chubak",
+    "question": "Helpful color. Thanks for taking my questions.",
+    "answer": "Thank you.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Glenn Schorr",
+    "question": "Fair enough. All right, thanks, David.",
+    "answer": "Yeah.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Ebrahim Poonawala",
+    "question": "Hey, good morning.",
+    "answer": "Good morning.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Ebrahim Poonawala",
+    "question": "Got it. And maybe just sticking to FICC or maybe both FICC and Equity. On the financing side, if you don't mind reminding us of the opportunity to grow financing over the next year or over the medium-term. Thank you.",
+    "answer": "So, thanks, Ebrahim. So we've been clear over the last several years that we see opportunities to grow both FICC and equity financing. And it's a virtuous activity for us. It dovetails well with our focus on clients and our focus on market share. We have a lot of expertise in this space and we see a lot of demand from clients for us to deploy both into FICC and equities. We now have leading equities franchise overall. Our equities financing business is in a leadership position and at scale. It has grown significantly and we continue to see opportunities to increase the activities that we do with our existing clients and bring new clients on the platform. So we look out into 2024 and 2025. We continue to be very focused. I think there's good opportunities across both FICC and equity financing in GBM.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "GS",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Mike Mayo",
+    "question": "All right. Thank you.",
+    "answer": "But small in the overall context of the firm and the firm's performance. Yeah.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Mike Mayo",
+    "question": "Okay. Thanks.",
+    "answer": "Thank you.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Gerard Cassidy",
+    "question": "Good morning, David. Good morning, Dennis.",
+    "answer": "Good morning Good morning, Gerard.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "GS",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Steven Chubak",
+    "question": "Great. That's it for me. Thanks for taking my questions.",
+    "answer": "Thank you.",
+    "label": "DIRECT",
+    "confidence": 0.6
+  },
+  {
+    "symbol": "GS",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Christian Bolu",
+    "question": "Okay. Got you. Maybe David, look, kudos to you on the firm, you're clearly taking share across your businesses, whether it's markets or alternatives and in private wealth doing a great job. But just given to your point, the improved opportunity set here and perhaps more friendly regulatory environment. Any thoughts on doing a strategic deal to accelerate your growth prospects within alts or private wealth?",
+    "answer": "Yeah. I appreciate the question, Christian. And look, we always think about, particularly around our Asset & Wealth platform, are there things that could accelerate our growth and journey and the overall mix of the firm. As I've said before, the bar for doing something is high. I'd also say, these businesses are sold, they're not bought. And at the moment, the market is valuing these businesses with an extraordinary amount of forward growth. But we obviously watch the space. And over time, could there be opportunities? Yes. But at the moment, we’re very focused on execution. I think one of the things we’re so excited about for the firm is we have an ability to continue to execute organically on what we’ve laid out in front of you and continue to improve the returns of the firm. Plus, I think as you point out, we have tailwinds from both the environment and improving environment for the kinds of activities that flow into our ecosystem and also the overall business and regulatory environment. So I think execution right now continues to be our primary focus.",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "GS",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Betsy Graseck",
+    "question": "Hi. Good morning.",
+    "answer": "Good morning, Betsy.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Betsy Graseck",
+    "question": "Now you hear me? Hello?",
+    "answer": "Yes, you’re back now. You’re back.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Betsy Graseck",
+    "question": "…on the current rule set.",
+    "answer": "Yes, because the market is pricing -- it holds -- the market would take loans at much lower capital ratios than banks are being forced to hold for them. I’m talking about just loans only. And so that’s why you’re seeing a lot of capital go to -- I mean a lot of the credit go to nonbanks and dramatically, by the way, rapidly and dramatically. And so if you’re a regulator, if you look at it and saying, do I want that? Is that a good thing for the system? If you believe it’s a good thing for the system, raise the capital, more credit will go out of the system. That’s fine. If that’s what they want, that’s fine. But they should do it with a forethought, not accidentally.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Betsy Graseck",
+    "question": "I like the NII from loans better than the gain on sale. So I’ll prefer the former, not the latter. But thanks, appreciate it.",
+    "answer": "Yes.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Betsy Graseck",
+    "question": "Okay. Thank you so much, and I appreciate it. Looking forward to seeing you at Investor Day on May 20.",
+    "answer": "Excellent. Us too.",
+    "label": "EVASIVE",
+    "confidence": 0.95
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "James Mitchell",
+    "question": "Okay. And just a follow-up on that and just sort of bigger picture on NII. Is that sort of the biggest driver of your outlook? Is it migration? Is it the forward curve? Is it balances? It sounds like it's migration, but just be curious to hear your thoughts on the biggest drivers of upside or downside.",
+    "answer": "Yes. So I mean, I think the drivers of, let's say, what's embedded in the current guidance is actually not meaningfully different from what it was in the fourth quarter, meaning it's the current yield curve, which is a little bit stale now, but the snap from quarter end had roughly 3 cuts in it.",
+    "label": "DIRECT",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Kenneth Usdin",
+    "question": "Got it. And I guess I'll just stick on the theme of capital markets. And not surprising at all to see a little bit tougher comp in FICC. I think you guys have kind of indicated that maybe a flattish fee pool is a reasonable place, and I know that's impossible to guide on.",
+    "answer": "Yes, a really good question. I would say, in general, that the sort of volatility and uncertainty in the rate environment overall on balance is actually supportive for the Markets revenue pool. And I think that, together with generally more balance sheet deployment as well as sort of some level of natural background growth, is one of the reasons that the overall level of Markets revenue has stabilized at meaningfully above what was normal in the pre-pandemic period.",
+    "label": "EVASIVE",
+    "confidence": 0.6
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Matthew O'Connor",
+    "question": "Got it. And then just separately, within the consumer card businesses, you highlighted volumes are up 9% year-over-year. Obviously, still a very strong piece. Any trends within that, that are worth noting in terms of changes in spend category -- either overall or among certain segments?",
+    "answer": "Maybe a little bit. Jamie already alluded somewhat to this. So I do think spend is fine but not boomy, broadly speaking, I would say. You can look at it a lot of different ways, inflation cohorts, et cetera. But when you kind of triangulate that, you get back to this kind of flattish picture.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "John McDonald",
+    "question": "Okay, and there is some room for buybacks?",
+    "answer": "Unlikely, obviously, that would be an unlikely outcome.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "John McDonald",
+    "question": "Okay, thank you.",
+    "answer": "Sorry, John, go ahead. Did you have a follow-up?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "John McDonald",
+    "question": "Yes. No, just do buybacks play a role in the next couple of years, strategically, just episodically you buyback?",
+    "answer": "I mean, capital hierarchy again, right. In the end, when we have nothing else to do with the money, we'll do buybacks and we've talked about the $12 billion for this year. Obviously, lot of new moving parts there, although all else equal, given what we've done so far, that's still probably a reasonable number for the full year. But, yes, that's always going to be at the end of the list, but, yes.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Mike Mayo",
+    "question": "Wait, just to be clear, it's just a part of the question I asked for two years, going back, whether or not, but.",
+    "answer": "I appreciate the balance. Now in all seriousness, we've always been pretty clear right that our spending is through-the-cycles funding, based on through this cycle investment, through-the-cycle spending based on our through-the-cycle view of the earnings generating power of the company and the goal to produce the right returns. So broadly speaking, NII tends to flow straight-through to the bottom-line, both fund is growing up, and by the way, when it's going down too and we've been through those moments, as you will remember. So, whether or not there are opportunities to deploy some more dollars into marketing and stuff like that, we have actually looked at that recently. I don't see that being a meaningful item this year, which is part of why we have not revised the expense guidance so far. But this is about investing through-the-cycle and being honest and disciplined about which revenue items flow, carried expense loading and which item don't.",
+    "label": "EVASIVE",
+    "confidence": 0.6
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Mike Mayo",
+    "question": "And then last quick follow-up.",
+    "answer": "I think we're kind of running as fast as we can. So you actually set down the risk credit compliance, audit market bankers recruiter trainers -- this is it. We're a full effort right now. And we want to make sure we get things right and get things thoughtful and careful. So it's not just the money, it's the people and how many things can change all the once and add to all at once.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Betsy Graseck",
+    "question": "Right. But you were saying earlier, deposit betas you do anticipate are going to be accelerating from here, and that's part of the outlook for NII longer term to normalize in the mid-70s. Is that right?",
+    "answer": "Yes. Go ahead, James. Yes. I mean basically, yes, as you have - if the next round is going to be the beta built from 30 to 40 to 50, whatever the product is, yes, that's the latter. And the 2.5 will go down over time as that actually happens if rates actually go up. The rates don't actually go up to 2.5 billion is exactly 2.5 again. And what I was going to say, as is just that the projection of the 87 coming down to a significantly lower number contains both the element of internal migration, as well as the potential, which is by no means guaranteed, at product level reprice. And furthermore, then obviously, the dynamics are a little bit different in the different business segments as we move from large corporate wholesale to consumer.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Matt O'Connor",
+    "question": "Got it. All right. Thank you.",
+    "answer": "Thanks.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Steven Chubak",
+    "question": "Hi. Good morning, Jeremy.",
+    "answer": "Good morning Steve.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Steven Chubak",
+    "question": "Understood, Jeremy. Thanks so much for taking my questions.",
+    "answer": "Thanks Steve.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Saul Martinez",
+    "question": "Okay, great. Thanks a lot.",
+    "answer": "Thanks Saul.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Ken Usdin",
+    "question": "Thank you.",
+    "answer": "Thanks Ken.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Glenn Schorr",
+    "question": "Super, helpful. Thanks so much for that.",
+    "answer": "Thanks Glenn.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Matt O'Connor",
+    "question": "Got it. Okay, thank you for the details.",
+    "answer": "Thanks Matt.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Betsy Graseck",
+    "question": "Hi, Jeremy.",
+    "answer": "Hi, Betsy.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Betsy Graseck",
+    "question": "Great. Thank you Jeremy. Appreciate it.",
+    "answer": "Thanks Betsy.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Gerard Cassidy",
+    "question": "Great, appreciate the insights as always. Thank you.",
+    "answer": "Thanks Gerard.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Erika Najarian",
+    "question": "Great. Thank you.",
+    "answer": "Thanks Erika.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Jim Mitchell",
+    "question": "All right. Okay, great. Thanks.",
+    "answer": "Thanks Jim.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Steven Chubak",
+    "question": "Hey, good morning.",
+    "answer": "Hey, Steve.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Steven Chubak",
+    "question": "Very helpful color, Jeremy. Thanks for taking my questions.",
+    "answer": "Yep.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Ebrahim Poonawala",
+    "question": "Got it. Thank you.",
+    "answer": "Sorry, I'm just getting a correction in the room. I meant to say trillion.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Ryan Kenny",
+    "question": "Got it.",
+    "answer": "Inside the company, some people think it will happen sooner, i.e., me. Some people think it will happen later, i.e., Jen and Marianne and Jeremy. There was no way that I was in that camp, actually, but I don't know. I'm not sure I have an opinion on it.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Gerard Cassidy",
+    "question": "Good morning, Jeremy. How are you?",
+    "answer": "Hey, Gerard.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Glenn Schorr",
+    "question": "Thank you for all that.",
+    "answer": "Thanks, Glenn.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Jim Mitchell",
+    "question": "Okay. And then if it weren't to change, and you talked about the potential impact on liquidity in the Markets business, specifically, is that a JPM pulling out of certain business type of event? Or is that -- is it more a comment that there'll be fewer providers of liquidity as less scaled players exit? And maybe that's all else equal, a market share gain opportunity for JPMorgan in a smaller business?",
+    "answer": "I think -- so if you look at Markets alone, it's a huge, I think, 60% increase in capital. And if you look at it, you can do that by product, for some products it worth it than for others. But generally, it's bad across all products. And market make -- but the really important thing is market making is a critical function. And if you look at the world, only so many large market makers who can make markets for governments, hospitals, cities, schools, states, IMF, World Bank, BlackRock, Blackstone and all those various things to buy and sell for their clients in size, and market makers have a different function than hedge funds. And I don't know what the real intent was with this, this is another one, I think, needs to be really thought through. What are you trying to accomplish? We do market making quite safe. We've never lost the kind of money that people talk about in market making in the global market [shock] (ph) or something like that. But the other thing about market making, I do agree it could actually force some people out. It will force lower positions, which is why I think it's a little risky, but it may also force more consolidation. And so clients, since they need it so much, there may be consolidation in unintended way in market making and obviously more volatile markets because with all the constraints for the LCR, SLR, capital, et cetera, you will constantly be up against limitations on what you can do. Yeah. And I think that last point of Jamie's is particularly important because, sure, if you want, you can construct as what I would consider a very optimistic argument that the higher cost of doing business will lead smaller-scale players to exit, and that's a share gain opportunity for us. But I refer back to the comments about the disincentives to beneficial diversification and scale. Getting bigger, especially in Markets, it's quite expensive from, for example, a GSIB perspective. And so you wind up kind of hemmed in on all sides, which is one of the reasons why we're sort of highlighting that it does seem like the only way out sometimes when you look at the cumulative effect of everything that's happened in Markets over the last 15 years is a fundamentally very different system. And well, obviously... Great opportunity for European market makers. I mean, a great opportunity. Like they can do repo and FX and swaps and credit and stuff with 30% less capital. That is a big difference in that kind of business.",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Jim Mitchell",
+    "question": "All right. Thanks a lot.",
+    "answer": "Thanks.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Steven Chubak",
+    "question": "Well said. Well, thank you so much for taking my questions.",
+    "answer": "Thanks, Steve.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Erika Najarian",
+    "question": "Thank you.",
+    "answer": "And one last thing. Cash is a very valuable asset sometimes in a turbulent world. And you see my friend Warren Buffett stockpiling cash right now. I mean, people should be a little more thoughtful about how we're trying to navigate in this world and grow for the long-term for our company.",
+    "label": "EVASIVE",
+    "confidence": 0.95
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Matt O'Connor",
+    "question": "Good morning. So lower rates was supposed to drive a pickup in loan growth and conversion of some of these investment banking pipelines. I mean, obviously, we just had one cut and it's early, but any beginning signs of this in terms of the interest in borrowing more and again, conversion of the banking pipelines?",
+    "answer": "I would say, Matt, generally no, frankly, with a couple of minor exceptions. So I think it's probably fair to say that the outperformance late in the quarter in Investment Banking fees was to a meaningful degree, as I mentioned, driven by DCM as well as, to some degree, driven by the acceleration of the closing of some M&A transactions. And I do think that some of that DCM outperformance is in the types of deals that are opportunistic deals that aren't in our pipeline. And those are often driven by treasurers and CFOs sort of seeing improvement in market levels and jumping on those. So it's possible that, that's a little of a consequence of the cuts. But I think I mentioned we did see, for example, a pickup in mortgage applications, tiny bit of pickup in refi and our multi-family lending business, there might be some hints of more activity there. But these cuts were very heavily priced, right? The curve has been inverted for a long time. So to a large degree, this is expected. So I'm not -- it's not obvious to me that you should expect immediate dramatic reactions, and that's not really what we're seeing. I noticed in the debt markets, rates came down, spreads are quite low and markets are wide open. So it kind of makes sense to people taking advantage of that today. Those conditions may not prevail, ongoing conditions late next year.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Betsy Graseck",
+    "question": "Hello, hi, good morning.",
+    "answer": "Hey, Betsy.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Saul Martinez",
+    "question": "Okay. That's helpful. So it sounds like you're a little bit above that, but there's still some pressure, but you're not dramatically above those levels.",
+    "answer": "Very good returns in business in Banking & Wealth Management. We're growing market share. And when we build branches and stuff like that, we don't necessarily assume current margins. We look at what could be normal margins over time. We're very comfortable, very nice business for you all. Got it. Okay, that's helpful. Thanks a lot. That's all I got. Thanks, Saul. Thanks, everyone. Thank you.",
+    "label": "EVASIVE",
+    "confidence": 0.6
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Matt O'Connor",
+    "question": "Good morning. Thanks for all the comments on the net interest income. Any updates on that medium-term outlook that you've put out there?",
+    "answer": "Yes, Matt, not particularly updating. I think you're referring to that $80 billion number that we put out there. And I wouldn't exactly describe that as an outlook. I think it's more just a number that we put out there to try to quantify a little bit the extent of the over-earning. So not particularly necessary to revise the number. But I just would point out again, as we highlighted on the page and as I highlighted in the prepared remarks, that when you look at that $94 billion exit rate and full-year guidance of $88 billion, that implies obviously exiting below $88 billion and some significant sequential decline. So in that sense, you can see us kind of marching on the path to that $80 billion. Whether we ever get to the $80 billion or not and when is maybe a topic for later in the year or next year.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Matt O'Connor",
+    "question": "Okay. Thank you.",
+    "answer": "Thanks, Matt.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Mike Mayo",
+    "question": "Okay. I have a short follow-up. I'm still here.",
+    "answer": "Sure.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Mike Mayo",
+    "question": "All right. Thank you.",
+    "answer": "Thanks, Mike.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Gerard Cassidy",
+    "question": "Great. Thank you.",
+    "answer": "Thanks, Gerard.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Manan Gosalia",
+    "question": "Great. Thank you.",
+    "answer": "Yes.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "John McDonald",
+    "question": "Thanks.",
+    "answer": "So yes, you've noted all the points that we always make, so I won't repeat them. And I think the way we're thinking about it right now is that we feel very comfortable with the notion that it makes sense for us to have a nice store of extra capital in light of the current environment. We believe there's a good chance that there will be a moment where we get to deploy it at better levels essentially in whatever way than the current opportunities would suggest. And so that feels like a correct kind of strategic and financial decision for us. Having said that, having studied it quite extensively over the last six months and had all the debates that you would expect, we've concluded that we do have enough, we have enough excess. And given that we would like to not have the excess grow from here. So when you think about the implications of that, given the amount of organic capital generation that we're producing, it means that unless we find in the near-term opportunities for organic deployment or otherwise, it means more capital return through buybacks, all else being equal in order to arrest the growth of the excess, and that is our current plan, although I'll give you the caveat that, as you know, is in our disclosure, which is we don't want to get in the business of guiding on buybacks and we reserve the right to change the trajectory at any time for any reason, but that is our current thinking.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Mike Mayo",
+    "question": "So, you will stay around maybe for a few more years base case right now?",
+    "answer": "Yes. Basic case, yes.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Betsy Graseck",
+    "question": "Hi, good morning.",
+    "answer": "Hi, Betsy.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Betsy Graseck",
+    "question": "Thank you.",
+    "answer": "Thank you, Betsy.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Gerard Cassidy",
+    "question": "Hi, Jeremy. Hi, Jamie. Jeremy, you mentioned...",
+    "answer": "Good morning, Gerard.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Gerard Cassidy",
+    "question": "Sounds good. Thank you, gentlemen.",
+    "answer": "Thanks, Gerard.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "JPM",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Jeremy Barnum",
+    "question": "Thanks very much.",
+    "answer": "Thanks very much. See you next quarter.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Vaibhav Taneja",
+    "question": "Yes.",
+    "answer": "It’s just one thing after another. Our Cybertrucks are crazy. Thank you. Yes, exactly. It’s just – if you’ve got cars that are sitting on ships, they obviously cannot delivered to people. And if you’ve got the excess demand for Model 3 and Model Y in one market, but you don’t have it there. It’s quite a – it’s extremely complex logistics situation. So I’d say also the – we did overcomplicate the sales process, which we’ve just in the past week or so have greatly simplified. So it became far too complex to buy a Tesla, whereas it should just be you can buy the car in under a minute. So we’re getting back to that you can buy a Tesla in under an minute interface from what was quite complex. Okay, thank you. Let’s go to Colin Rusch from Oppenheimer. Colin, go ahead and unmute, please. Thanks so much, guys. Given the pursuit of Tesla really as a leader in AI for the physical world, in your comments around distributed inference, can you talk about what that approach is unlocking beyond what’s happening in the vehicle right now? Do you want to say something? Yes. Like Elon mentioned like the car even when it's a full robotaxi it's probably going to be used 150 hours a week. That's my guess like a third of the hours of the week. Yes. It could be more or less, but then there's certainly going to be some hours left for charging and cleaning and maintenance in that world, you can do a lot of other workloads, even right now we are seeing, for example, these LLM companies have these like batch workloads where they send a bunch of documents and those run through pretty large neural networks and take a lot of compute to chunk through those workloads. And now that we have already paid for this compute in these cars, it might be wise to use them and not let them be idle, be like buying a lot of expensive machinery and leaving to them idle. Like we don't want that, we want to use the computer as much as possible and close to like basically 100% of the time to make it a use of it. That’s right. I think it's analogous to Amazon Web Services, where people didn't expect that AWS would be the most valuable part of Amazon when it started out as a bookstore. So that was on nobody's radar. But they found that they had excess compute because the compute needs would spike to extreme levels for brief periods of the year and then they had idle compute for the rest of the year. So then what should they do to pull that excess compute for the rest of the year? That's kind of... Monetize it Yes, monetize it. So, it seems like kind of a no-brainer to say, okay, if we've got millions and then tens of millions of vehicles out there where the computers are idle most of the time that we might well have them do something useful. Exactly. And then, I mean, if you get like to the 100 million vehicle level, which I think we will, at some point, get to, then – and you've got a kilowatt of useable compute and maybe your own hardware 6 or 7 by that time. Then you really – I think you could have on the order of 100 gigawatts of useful compute, which might be more than anyone more than any company, probably more than a company. Yes, probably because it takes a lot of intelligence to drive the car anyway. And when it's not driving the car, you just put this intelligence to other uses, solving scientific problems or answer in terms of someone else. It's like a human, ideally. We've already learned about deploying workloads to these nodes Yes. And unlike laptops and our cell phones, it is totally under Tesla's control. So it's easier to distribute the workload across different nodes as opposed to asking users for permission on their own cell phones to be very tedious. Well, you're just draining the battery on the phone. Yes, exactly. The battery is also... So like technically, I suppose like Apple would have the most amount of distributed compute, but you can't use it because you can't get the – you can't just run the phone at full power and drain the battery. Yes. So, whereas for the car, even if you're a kilowatt level inference computer, which is crazy power compared to a phone. If you've got 50 or 60 kilowatt hour pack, it's still not a big deal to run if you are plugged it – whether you plugged it or not – you could be plugged in or not like you could run for 10 hours and use 10-kilowatt hours of your kilowatt of compute power. Yes. We got built in like liquid cold thermal management. Yes, exactly. Exactly for data centers, it's already there in the car. Exactly. Yes. Its distributed power generation – distributed access to power and distributed cooling, that was already paid for. Yes. I mean that distributed power and cooling, people underestimate that costs a lot of money.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Vaibhav Taneja",
+    "question": "Yes. And the CapEx is shared by the entire world sort of everyone wants a small chunk, and they get a small profit out of it, maybe.",
+    "answer": "Yes. Thanks so much guys. And just my follow-up is a little bit more mundane. Looking at the 4680 ramp, can you talk about how close you were to target yields and when you might start to accelerate incremental capacity expansions on that technology? We're making good progress on that. But I don't think it's super important for at least in the near term. As Lars said, we think it will be exceed the competitiveness of suppliers by the end of this year and then we'll continue to improve. Yes. I mean, I think it's important to note also that like the ramp right now is relevant to the Cybertruck ramp. Yes. And so like we're not going to just randomly build 4680s unless we have a place to put them and so we're going to make sure we're prudent about that. But we also have a lot of investments with all our cell suppliers and vendors. They're great partners, and they've done great development work with us and a lot of the advancements in technologies and chemistry we found 4680, they're also putting into their cells. Yes. I mean a big part of the 4680, Tesla doing internal cells was a hedge against what would happen with our suppliers because for a while they are it was very difficult because every big carmaker put in massive battery orders, and so the price per kilowatt hour of lithium-ion batteries went to crazy numbers, crazy levels.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Vaibhav Taneja",
+    "question": "Bonkers.",
+    "answer": "Yes, just bonkers. So like, okay, we've got to have some hedge here to deal with cost per kilowatt hours of numbers that were double what we anticipated. If we have an internal cell production, then we have that hedge against demand shocks, we have too much demand. That's really the way to think about it. It's not like we want to take on a whole bunch of problems just for the hell of it. We did the cell program in order to address the crazy increase in cost per kilowatt hour from our suppliers due to gigantic orders placed by every carmaker on earth. Okay. Thank you. And the last question comes from Ben Kallo from Baird. Ben, go ahead and unmute. Ben, you're still muted. Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive FSD 12.3. It really – you can't – it's impossible to understand the company if you do not do this. All right. So since Ben is not unmuting. Let's try Shreyas Patil from Wolfe Research. Final question. Thanks so much. Just Elon, during the Investor Day last year, you mentioned that auto COGS per unit for the next-gen vehicle would decline by 50% versus the current three and Y. I think that was implying something around $20,000 of COGS. About one-third of that was coming from the on-box manufacturing process. But I'm curious if you see an opportunity that the – some of the other drivers around powertrain cost reduction or material cost savings, would those be largely transferable to some of the new products that you're now talking about introducing? Yes, sure. I mean, in short, yes, I mean, like the on-box manufacturing method is certainly great and revolutionary, but with it comes some risks because new production lines and not, but all the subsystems we developed, whether it was powertrains, drive units, battery improvements in manufacturing and automation, thermal systems, seating, integration of interior components and reduction of LV controllers, all that's transferable, and that's what we're doing, trying to get it in their products as fast as possible. And so yes, that engineering work, we're not trying to just throw it away and put a cars and we're going to take it and utilize it and utilize it to the best advantage of the cars we make and the future cars make. Okay. Great. And then just on that topic of 4680 cells, I know you mentioned it, you really thought of it more as like a hedge against rising battery costs from other OEMs. But it seems even today, it seems like you would have a cost advantage against some of those other automakers. And I'm wondering, given the rationalizing of your vehicle manufacturing plans that you're talking about now, if there's an opportunity to maybe convert the 4680 cells and maybe sell those to other automakers and really generate an additional revenue stream. I'm just curious if you have any thoughts about that. Great. What seems to be happening is that the I'm missing something, the orders for batteries from other automakers have declined dramatically. So we're seeing much more competitive prices for sales from our suppliers, dramatically more competitive than in the past. It is clear that a lot of our suppliers have excess capacity.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Vaibhav Taneja",
+    "question": "Comical name.",
+    "answer": "Yes, it is like Irish Republican Army, The Internet Research Agency from Russia.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Vaibhav Taneja",
+    "question": "Independent retirement account.",
+    "answer": "Yes, exactly. Roth IRA. It's like Spider-Man situation, which IRA wins. So but it is complicate the incentive structure. So that is there's the stronger demand for cells that are produced in the U.S. than outside the U.S. But then how long is that the IRA last, I don't know.",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Martin Viecha",
+    "question": "And the next question comes from William Stein from Truist.",
+    "answer": "I’d like to ask about -- to stick on this AI topic. We’ve read with great interest the developments in Dojo today, and you’ve spoken about FSD, but you’ve also -- Elon, you started this x.ai company. And for investors that think that there might be quite a bit of value in the AI features and products of Tesla, it might be concerning to see you pursuing another endeavor where AI is the focus. So can you talk about how x.ai might overlap, might perhaps compete with Tesla or in other ways, perhaps it enhances the value of what Tesla does? Yes. I think it’ll actually enhance the value of Tesla. There were just some of the world’s best AI engineers and scientists that were willing to join a startup, but they were not willing to join a large sort of relatively established company like Tesla. So, it was like -- that’s actually how it got started. I was interviewing a few people and they’re like, no, we want to do a startup. I was like, and that’s well -- I couldn’t convince them to join Tesla. So -- so it’s like, okay, well, better to start up that I run than go work somewhere else. That’s kind of the genesis of xAI. And xAI is focused on sort of AGI. Yes. So it’s -- like I said, I think there will be some value that xAI brings to Tesla. Also some of the best -- for the very best people in the world, they really just want to work on interesting problem. So if you take, say, a material science group, really what convinced Charlie Colman to leave Apple, where he was very happy and well compensated, and both at -- in both -- where we think is the best material science group in the world, was that he got to work at both Tesla and SpaceX. He wasn’t willing to leave Apple if it was just Tesla, but he’s willing to do it if it is Tesla and SpaceX. So sometimes you get the best talent in the world if that’s the kind of thing you need to do. And that actually has been very beneficial to Tesla. If I could squeeze one more mundane question in. I wonder if you think you can hit the 1.8 million unit number with current pricing, or do you anticipate needing to continue to lower prices because it seems like they’ve stabilized. The trends have stabilized in the last maybe 1.5 months. Should we expect sort of continued decreases or more stabilization for the rest of the year? Sure. We have sort of -- we started the referral program, which I think will be quite effective. As Zach was saying earlier, we don’t control the macroeconomic conditions. So, if interest rates continue to rise, that reduces the affordability of cars. And for a lot of people, they’re really -- they’re just really breaking even every month. In fact, if you look at the rise in credit card debt, they are, in fact, not breaking even every month. Credit card debt is looking scary. So, we just don’t control the market conditions. If market condition is stable, I think prices will be stable. If they’re not stable, then we would have lower prices. Yes.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Martin Viecha",
+    "question": "Thank you. Let’s go to Colin Rusch from Oppenheimer.",
+    "answer": "As you’re building out Dojo and implementing what truly is going to be a highly complex set of software, can you speak to the maturity of the operating system and how much outsourced software you’re expecting to use in that system? This is a custom software stack, so. But it is designed such that you can run at a high level, PyTorch and JAX. But then we have to customize it to actually run on a custom silicon. So, the software stack is a combination of open source software and then Tesla software all the way to the bare silicon, which is the case for the inference computer in the car. Okay. Thanks so much. That’s super helpful. And then can you speak to how you’re managing some of the geopolitical risks relative to your capacity expansion? Obviously, as you guys continue to grow at this rate, you’re going to be putting some folks out of business. And there’s going to be some impacts around regional economy. So, I just want to understand how you’re thinking about that in terms of some of your CapEx plans and how you’re managing some of those relationships with different countries and regions. Well, this is a period of unusual geopolitical risk. So, I think we’re -- the best we can do is have factories in many parts of the world such that if things get difficult in one part of the world, we can still keep things going in the rest of the world.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Martin Viecha",
+    "question": "Thank you. The next question comes from Mark Delaney from Goldman Sachs.",
+    "answer": "Tesla has been making progress reducing costs and did so again last quarter. Can you give an update on when you think automotive COGS per vehicle could be under the historical $36,000 per vehicle level? And what are the key puts and takes to get there? This is -- I think I was asked this in the past. This is very difficult to forecast. There’s a series of costs that we manage, the series of costs which we don’t control. And so particularly on the commodity side, where labor costs go, et cetera, it’s just hard to say. Yes. And we saw very inflationary -- like strong inflationary pressures for a while last year. And now -- which obviously makes it very difficult to reduce COGS. And now we’re seeing what seems to be deflationary pressures, certainly deflationary -- deflation isn’t pressure. But we’re seeing commodity prices dropping as was mentioned, as Karn mentioned a moment ago. I mean, I don’t know, what do you think? I mean, basically, the trends seem to be deflationary at the commodity level. Definitely. There’s that. And then there’s also the unit economics improve as volumes grow. That’s the other thing we’re seeing. As we’re becoming a bigger and better part of a lot of suppliers, the economies of scale come into play. There’s equipment depreciation that comes into play, equipment that was commissioned 5 to 7 years ago. That used to be a part of the piece price. That’s completely amortized. So, we’ll see situation where piece price comes down because that equipment contribution has gone away. And then just we continue to have this mentality of continuous improvement in terms of labor, reducing labor, improving automation, and just continue to get better at what we do. So we have seen -- I think every quarter, we have seen an improvement. Of course, the commodities spiked up and down. Just in general, the trend is towards being more efficient. Yes, I’m totally agreeing. Yes, lithium prices were absolutely insane there for a while. Yes. And they’re recovering now. Cobalt -- the way it used to be. Yes. And we’re still early in the ramp -- well, not early in the ramp, but early in the cost down curve of Austin and Berlin. And so, it takes time to work the cost out it. First, it’s a focus on ramp -- ramp, it brings cost down... And quality costs… Yes. And then once that stabilizes, we can divert bandwidth to cost reduction. And so Austin and Berlin saw quite a decent amount of cost reduction on a fundamental basis from Q1 to Q2. We’ll continue to do that work that will be helpful. And so we’re just going to keep chipping away at it. Packaging is a big element to that. Yes, logistics… Logistics is normalizing, which is great. [Indiscernible] utilization, something that the team has been very focused on. So, every bit of it. Yes, and it’s hard... Logistics is underappreciated. Yes, so sold saying goes like valves and with tactics as one with logistics. Yes. And we’ve made tremendous improvements in cost in all fronts on expired costs. We have done pre-pandemic expired cost levels now, and our goal is to go further down. Yes. So when we look at our progress from Q1 to Q2 on cost, the way that we look at internally, normalized for the impacts of mix shift with Austin and Berlin being a higher percentage of our mix, normalized for S and X being a higher percentage of our mix in Q2 versus Q1, the sequential cost reduction, it might be the largest we’ve had in a while. So, I think it’s great work on behalf of the Tesla team, and we just got to keep it up. Yes, it’s a game of pennies. It’s a Game of Thrones with pennies.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Martin Viecha",
+    "question": "Yes. I think this is unfortunately all the time we have for today. So, we’ll speak to you all in the next three months. Thank you very much.",
+    "answer": "Thank you.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Travis Axelrod",
+    "question": "Thank you. The next question comes from Pierre from New Street. Pierre, please unmute yourself.",
+    "answer": "Hey, guys. Thank you for taking my question. So it's on Robotaxi again, and I completely get it that with a universal solution, we will get like regulatory approval, we'll get there eventually clicking up miles and compute, et cetera. And my question is more, how you think about deployments, because I'm still like, I'm thinking once you have a car that can drive everywhere, that can replace me, it can replace a taxi, but then to do the right hailing service, you need a certain scale. And that means a lot of cars on the road and so you need an infrastructure to just maintain the cars, take care of them, et cetera. And so my question is, are you already working on that? Do you have already an idea of what, like your plan to deploy looks like? And is that like a test Tesla only plan or are you looking at partners, local partners, global partners to do that? And I'll have a quick follow-up. Yes. This would just be the Tesla network. You just literally open the Tesla app and summon a car and resend a car to pick you up and take you somewhere. And you can -- our -- we'll have a fleet that's I don't know, on order of 7 million dedicated global autonomy soon. In the years come it'll be over 10 million, then over 20 million. This is immense scale. And the car is able to operate 24/7, unlike the human driver. So, the capability to -- like, if there's this basically instant scale with a software update. And now this is for a customer on fleet. So you can think of that as being a bit like Airbnb, like you can choose to allow your car to be used by the fleet, or cancel that and bring it back. It can be used by the fleet all the time. It can be used by the fleet some of the time, and then Tesla would take -- would share on the revenue with the customer. But you can think of the giant fleet of Tesla vehicles as like a giant sort of Airbnb equivalent fleet, Airbnb on wheels. The -- I mean, then in addition we would make some number of cars for Tesla that would just be owned by Tesla and be added to the fleet. I guess that would be a bit more like Uber. But this would all be a Tesla network. And there's an important clause we've put in, in every Tesla purchase, which is that the Tesla vehicles can only be used in the Tesla fleet. They cannot be used by a third-party for autonomy. Okay. And do you think that scale is like progressively so you can start in a city with just a handful of cars and you grow the number of cars over time? Or do you think there is like a critical mass you need to get to, to be able to offer like a service that is of competitive quality compared to what like the -- like Uber would be typically delivering already? I guess I'm not -- maybe I'm not conveying this correctly. The entire Tesla fleet basically becomes active. This is obviously maybe there's some number of people who don't want their car to own money, but I think most people will. It's instant scale.",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Travis Axelrod",
+    "question": "Thank you. Our next question comes from Colin from Oppenheimer. Colin, please unmute yourself.",
+    "answer": "Sorry about that guys. I've got two questions around energy storage. With the tight supply and the stationary storage, can you talk about your pricing strategy and how you're thinking about saturation and given geographies given that some of these larger systems are starting to shift wholesale power markets in a pretty meaningful way quickly? So, I mean, we are working with a large set of players in the market and our pipeline is actually pretty long. And there's actually very -- there's actually long end in terms of where you enter into a contract where delivery started -- starts happening. And so far we have good pricing leverage. And now Mike, chime in on this too. Yes, I mean there's a lot of competition from Chinese OEMs just like there is in the vehicle space. So we're in close contact with our customers and making sure that we're remaining competitive in where they're needing to be competitive to, to secure contracts to sell power and energy in the markets. We had a really strong contracting quarter and continue to build our backlog for 2025 and 2026. So we feel pretty good about where we are in the market. We realize that competition is strong, but we have a pretty strong value proposition with offering a fully integrated product with our own power electronics and site level controls. So … Yes, and again, the aspect which people miss do not fully understand is that there's also a whole software stack, which comes with from Megapack, right? And that is a unique proposition which we -- which is only available to us, and we are using it with other stuff too, but that gives us a much more of an edge as compared to the competition. Yes, we find customers that they can sort of put together a hodgepodge solution. And so, and then sometimes they'll pick that solution, and then that doesn't work. And then they come back to us. Yes, and we're not really seeing saturation for like, on a global scale. There's little pockets of saturation in different markets, but we're more seeing that there's markets opening up given demand on the grid just continues to increase more than anyone expects. So that just opens up markets, really across the world in different pockets. Yes, I mean just even on the AI computer side, right? These GPUs are really powerful already and the amount of new pipeline, which we're getting for people for data center backup and things like that is increasing at a pretty large scale. Yes. Thanks. And then the follow-up here is 4680 process technology and the role to role process. There's some news around your equipment suppliers. Can you talk about how far along you are in, in potentially qualifying an incremental supplier around some of that, those critical process technology steps? Yes, I can talk about that. As you're probably referring to the lawsuit that we have with one of our suppliers, look, I don't think this is going to affect our ability to roll out 4680. We have very strong IP position in the technology and the majority of the equipment that we use is in-house designed and some of it's in-house build. And so we can take our IP stack and have someone else build it if we need to. So it's, that's not really a concern right now. Yes. I, I think people don't understand just how much demand there will be for grid storage. They really just like the [indiscernible] I think are underestimating this demand by probably orders magnitude. So that the actual energy, total energy output of, say the U.S grid is if the power plants can operate a steady state is at least two to three times, the amount of energy it currently produces, because there are a huge gap. There's a huge difference in the -- from peak to trough in terms of energy of power generation. So in order for a grid to not have blackouts, it must be able to support the load at the worst minute of the worst day of the year, the coldest or hottest day, which means that for the rest of the time, the rest of the year, it's got massive excess power generation capability, but it has no way to store that energy. Once you add battery packs, you can now run the power plants at steady state. Steady state means that basically any given grid anywhere in the world can produce in terms of cumulative energy in the course of the year, at least twice what it is currently producing in some cases, maybe three times.",
+    "label": "EVASIVE",
+    "confidence": 0.6
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Travis Axelrod",
+    "question": "All right. Thank you, Elon. The next question comes from Colin Langan from Wells Fargo. Colin, please unmute yourself.",
+    "answer": "Oh, great. Thanks for taking my questions. Do you hear me?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Travis Axelrod",
+    "question": "Yes.",
+    "answer": "Yes. Sorry. I guess when we are going to ask, if Trump wins, there's a higher chance that IRA could get cut. I think Elon, you had commented online that Tesla doesn't survive on EV subsidies. But when Tesla lose a lot of support if IRA goes away? I think model Y3 and Y get IRA help for customers, and I think your batteries get production tax credits. So, just one, can you clarify if the end, if IRA ends, would it be a negative for your profitability in the near-term? Why might it not be a negative? And then, any framing of the current support you get, IRA-related? I guess that there would be like some impact, but I think it would be devastating for our competitors. But -- and it would hurt Tesla slightly. But long-term probably actually helps Tesla would be my guess. Yes -- but I've said this before on earnings calls, it -- the value of Tesla overwhelmingly is autonomy. These other things are in the noise relative to autonomy. So I recommend anyone who doesn't believe that Tesla will solve vehicle autonomy should not hold Tesla stock. They should sell their Tesla stock. You should believe Tesla will solve autonomy, you should buy Tesla stock. And all these other questions are in the noise. Yes, I mean, I'll add this just to clarify a few things that -- at the end of the day, when we are looking at our business, we've always been looking at it whether or not IRA is there and we want our business to grow healthy without having any subsidies coming in, whichever way you look at it. And that's the way we have always modeled everything. And that is the way internally also even when we are looking at battery costs, yes, I --, there are manufacturing credits which we get, but we always drive ourselves to say, okay, what if there is no higher benefit and how do we operate in that kind of an environment? And like Elon said, we definitely have a big advantage as compared to a competition on that front. We've delivered it and you can see it in the numbers over the years. Like, so there is you cannot ignore the fundamental size of the business. And then on top of it, once you add autonomy to it, like even said, it becomes meaningless to you think about the short-term.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Travis Axelrod",
+    "question": "Okay. I think that's unfortunately all the time we have for today. We appreciate all of your questions. We look forward to talking to you next quarter. Thank you very much and goodbye.",
+    "answer": "That's excellent.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Vaibhav Taneja",
+    "question": "Exactly.",
+    "answer": "It’s not -- so now you get things like -- honestly, I would say it’s like -- somewhat correlates with why doesn’t everyone work from home crowd. I’m like -- I mean this is like some real Marie Antoinette vibes from people who say why is there no work from home. Like what about all the people that have to come to the factory and fill the cars or that all people that have to go to the restaurant and make your food and deliver your food. It’s like what are you talking about, you -- I mean, how detached from reality does the work from home crowd have to be? While they take advantage of all those who do -- who cannot work from home. So, I mean, you have to say like why did I sleep in the factory so many times, because it mattered. So I just can’t emphasize again how important cost is. It’s not an optional thing for most people, it is a necessary thing. We have to make our cars more affordable that people can buy it. And I keep harping on this interest thing, but I mean it just raises the cost of the car. I mean, we’re looking an internal analysis, which we think is more or less on track that when you look at the cost -- or the price reductions we’ve made in, say, the Model Y and you compare that to how much people’s monthly payment has risen due to interest rates, the price of the Model Y is almost unchanged.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Vaibhav Taneja",
+    "question": "If you factor in the...",
+    "answer": "Yes, which is what I’m trying to say. The thing that matters is the monthly -- it’s how much money do they have to put down and do they literally have that in their bank account or their check balance and then what is the monthly payment. And it doesn’t matter how -- if that monthly payment is principal interest or whatever, it’s just a number, and that number has to not cause their bank account to go negative. That’s it. So going from near zero interest rates to kind of the current very high interest rates, the actual monthly payment is basically the same. It’s just a bunch more of it is going to interest. And there are some incremental challenges beyond that, which is the difficulty of getting credit at all has increased. And so, the number of people who simply cannot get credit, period, even if they’ve got a job and everything is solid, the banks are a little gun-shy on handing out credit given that a bunch of them kicked the bucket earlier this year. There’s also just fewer options, even if they planned out credit, there’s fewer banks to go there. Digital banks still exist. Well, if your bank does not exist, you have to establish a relationship with a new bank. And so a lot of regional banks are died, and I mean even Credit Suisse, I mean, geez, that was a shocker. A 160-year-old-ish Swiss institution, it doesn’t exist anymore. That’s mind blowing. And I think there’s still quite a few shoes to drop on the bad credit situation. I mean, commercial real estate obviously is in terrible shape. Credit card debt has been rising significantly. The credit card interest rates are usurious. It’s over 20% interest rates, meaning like -- which over time is just it becomes obviously extremely punishing because if somebody’s paying 20% interest on their credit cards, means they cannot pay them off. If you can’t pay them off and you’re still accruing interest of 20%, you’re at best headed to a bad place. Thank you. Let’s go to next question from George from Canaccord. Just to focus on the cost per vehicle coming down in future quarters as you discussed in your written remarks. I’m curious as to what the levers of that could be. Is it more scale, more factory utilization? Is it material cost reductions? Are there things like gigacasting? I mean, can you just kind of give us some data points to give us confidence if that’s going to come down over time. And if I can sneak one in, please, there are press reports -- and I know how perilous it is to believe some of these. But, they say that you’ve included radar as an option in some Model Ys in China. And I’m just here to ask if that’s true. And if so, why? We’ve not included radar. We have radar as -- a Tesla designed radar is an experiment in Model S and X. That’s it. We’ll see whether that experiment is worth it, but there are no plans to integrate radar into 3 and Y. Just as humans drive well, and in fact, an excellent human driver can drive with amazing safety simply with their eyes, the car will far exceed the average human safety just with vision, far, far, far because, I mean, the car is looking at all directions all at once. We don’t have eyes at the back of our head. And the computer never gets tired and never gets distracted, get drunk, hopefully. And so, radar is -- what really matters is how much does it affect the probability of an accident. And in order for the radar to be effective, you have to be able to do radar-only braking -- you have to do actions that are radar-only. Otherwise, you get this disambiguation problem between vision and radar. That’s why we actually turned off the radar in cars historically that we had shipped, all 3 and Y used to have radar, but we turned it off because the radar actually generated more noise than signal. Now the Tesla designed radar is a high-resolution radar that has some potential to be useful, but the jury is still very much out on whether that is in fact the case. On the cost question, I guess, from the vehicle side, like as Drew mentioned earlier, we are always trying to engineer our products to be cheaper to make and more efficient to make. That comes obviously on the engineering side as we come up with new innovations but as well on the supply chain side. With our partners, we work with them to automate some of their lines and move their bottlenecks and their high cost as well. On the logistics side, getting parts to the factory, it’s not like a one thing that -- you have to check cost everywhere and we do it ruthlessly at all times. Operations efficiency. All of the above.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Vaibhav Taneja",
+    "question": "Especially if there are wars going on and then that impacts your sentiment.",
+    "answer": "Yes. I mean people are reading about wars all over the world. Buying a new car tends to not be front of mind. All right. Unfortunately, that’s all the time we have today. Thank you very much for all of your good questions, and we’ll see you again in three months. Thank you very much.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Elon Musk",
+    "question": "There's some fun games, by the way. People haven't tried it. There's Castle Doombad and Polytopia and a bunch of really fun games in the car.",
+    "answer": "Yes. We're constantly looking at what features to add next and we're paying attention to what's most commonly requested by our customers.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Elon Musk",
+    "question": "Yes. Play Castle, Doombad. You want --",
+    "answer": "Great. Thank you guys very much. The next question is, Elon mentioned unsupervised FSD in California and Texas next year. Does that mean regulators have agreed to it in the entire state for existing Model 3 and 4 vehicles?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Elon Musk",
+    "question": "No. As I said earlier, California lost regulation. But they have a pathway? Yeah. I mean, there's a pathway. Obviously, Waymo operates in California. So there's just a lot of forms but a lot of approvals that are required. I mean, I'd be shocked if we don't get approval next year, but it's just not something we totally control. But I think we will get approval next year, in California and Texas. And for the end of the year, it will branch out be beyond California and Texas.",
+    "answer": "I mean, I think it's important to reiterate this. Like, homogeneity or certifying a vehicle at the federal level in the U.S. is done by meeting FMVSS regulations. All our vehicles today that are produced that are autonomous capable meet all those regulations, cybertruck need those regulations. And so the deployment of the vehicle to the road is not a limitation. What is a limitation is what you said at the state level where they control autonomous vehicle deployment. Some states are relatively easy as you mentioned for Texas. Yeah. And so other ones have in place like California that may take a little longer. Other ones haven't set up anything yet, and so we will work through those state by state.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Elon Musk",
+    "question": "Yeah. I mean, honestly, like, literally yeah. I mean, they've been there's a lot of but I do call it sort of like getting cost out of things. It's kind of like it's -- like game of pennies. So it's like game of thrones but pennies. First approximation, if you've got if you've got 10,000 items, in a car, very rough approximation, and each of them cost $4, then you have a $40,000 car. So if you want to make a $35,000 car, you're going to get $0.50 on average out of the 10,000 items.",
+    "answer": "Every part.",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Elon Musk",
+    "question": "Yeah. And it's like yeah. And then, obviously, the best is you delete some parts. In fact, we've done we have to delete a lot of parts.",
+    "answer": "I'm very excited about the Cybercab design and the well, how we're rethinking the design of a car for the Cybercab, designing it all for high volume production, and then designing machine that builds the machine, that is that I think is also revolutionary. And it's just there's no other car company that's even trying to do what we're doing. Like, I've even heard of it, actually. In fact, I'm certain there is someone like I'm I think this this the new machine that pulls the machine, like, it's inherent it's like the it's put it's designed to be, like, 5x better than a traditional factory. Like, cycle time – Cycle time and, like, part deletion and shipment. I don't think any other car company has the same level of, like, integration of thought that we have when it comes to, like, when you design a part from a white sheet of paper, who's going to make it? Where is it going to be made? How is it going be shipped? How is it going to be assembled into the vehicle? And, like, at any one point, if something is done in a silo, it becomes a bottleneck of either cost or time or efficiency. But with the robotaxi, the development, like, we've done a good job on the like, combining all that and then, like, blowing up how it's made and saying it should be made this way and rethinking it also. It's the most efficient factory possible. That shows in our -- it will show in our CapEx efficiency when we deploy it. It shows in the number of parts. It shows in the simplicity of the vehicle, but also how it performs in in terms of, like, end user, state. Just to close-up, just on the energy front also in ‘25, we will have started with flashing up mega factory Shanghai. We'll continue to increase our storage deployments with Powerwall 3. We plan to continue expanding our supercharging network, getting more OEMs on our network. 4680 that as Elon talked about. That would keep going. And then, there's we're also we'll have our lithium refinery starting to produce. So there's a lot which is going on.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Elon Musk",
+    "question": "Yeah. Tesla's like many companies in one.",
+    "answer": "Yeah. Guys, just a few more. What is going on with the Tesla Roadster?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Elon Musk",
+    "question": "Yeah. I mean, I guess like we think that we'll be able to have driverless Teslas during paid rides next year, sometime next year.",
+    "answer": "All right. Thank you. And our next question comes from Adam Jonas at Morgan Stanley. Adam, please feel free to unmute yourself. Okay, thanks, everybody. I just had a question about the relationship between Tesla and xAI. Many investors are still not clear how the work at xAI is truly beneficial to Tesla. Some even take the view that the two companies may even be in competition with each other in terms of talent and tech and even your time, Elon. So what's your message to investors on that relationship between Tesla and xAI? And where do you see it going over time?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "Corolla, Honda Civic, that kind of thing. They're much lower priced than ours. So people are really stretching their wallets to be able to afford a Tesla. It's quite a difficult thing for them to do, and remarkable that it's the best-selling car in unit volume, despite being much more expensive than other high-volume cars.",
+    "answer": "Thank you. Let's go to the next analyst. The next question comes from Adam Jonas from Morgan Stanley. Hey, everybody. So I can't wait to see the Optimus lab. I'm sure everybody on this call feels the same way. Your last AI Day, Elon, was September 2022. Can we expect a Tesla AI Day this year? It seems like a lot has changed in that realm. And is this year the time?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "And then we find these things being copied.",
+    "answer": "Same thing with Battery Day.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "Yeah. 48 volts.",
+    "answer": "On that if everyone wants to do that.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "Certainly. Man, the people that really know that this is like the inside baseball thing. But man, 48, it's so high time that the water industry moved from the 12 -- the random number of 12 volts to 48 volts.",
+    "answer": "Random number of 48 volts.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "Yeah. Well, it's much less random.",
+    "answer": "Slightly less random based on human injury, but...",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "Pretty slow. So it's really just bringing cars to...",
+    "answer": "The 21st century.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "Yeah, pretty much.",
+    "answer": "So, certainly like...",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "It's not exact -- it's like normal for a laptop. Yeah.",
+    "answer": "Certainly bringing that like is an evolution in our architectures of vehicles, but it's not gating by any means. The gating work is just to finish the design and manufacturing of the car, test them out and get them going. Yeah, programs and execution mode, right? Yeah. So it's talking about like, tooling lead time, manufacturing equipment lead time, factory lead time, and executing those programs.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "It does make it very hard to copy us because you have to copy the machine that makes the machine that makes the machine.",
+    "answer": "Talk about tiers.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "Yeah, exactly. Manufacturing exception. So I do think it's quite a powerful sustainable advantage because there just is no place to go to order the machines that make our next-gen car that don't exist.",
+    "answer": "Great. Thank you. As a follow-up, your release does not mention Dojo. So if you could just provide us an update on where Dojo stands and at what point you expect Dojo to be a resource in improving FSD or do you think that you now have sufficient supply of Nvidia GPUs needed for the training of the system?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Elon Musk",
+    "question": "It boggles my mind to think that if we make a 1% improvement in costs, that's $1 billion. So it's like, on average, if we reduce the cost by one penny, $1 billion.",
+    "answer": "What?",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Adam Jonas",
+    "question": "Care to elaborate or just, I have another question.",
+    "answer": "Look, we even have a radar in the car and we turned it off.",
+    "label": "DIRECT",
+    "confidence": 0.6
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Adam Jonas",
+    "question": "I got it. All right. So you're still -- people think you're crazy for not looking to LiDAR.",
+    "answer": "Obviously humans drive without shooting lasers out of their eyes. Unless you're Superman. But like humans drive just with passive visual, humans drive with eyes and a neural net and a brain neural net. So the digital equivalent of eyes and a brain are cameras and digital neural nets or AI. So that's the entire road system was designed for passive optical neural nets. That's how the whole road system was not designed and what everyone's expecting, that's how we expect other cars to behave. So therefore that is very obviously the solution for Full Self Driving in it as a generalized, but the generalized solution for Full Self Driving as opposed to the very specific, neighborhood by neighborhood solution, which is very difficult to maintain, which is what our competitors are doing.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Adam Jonas",
+    "question": "I got it.",
+    "answer": "Yeah. I mean, LiDAR doesn't work in the fall, guys. LiDAR has a lot of issues. I don't have to like, the SpaceX Dragon docks with the space station using LiDAR that a program that I've personally spearheaded. I don't have some fundamental bizarre dislike of LiDAR. It's simply the wrong solution for driving cars on roads.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "TSLA",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Adam Jonas",
+    "question": "Great. Thank you very much. The next question will come from Pierre Ferragu at New Street. Pierre, please feel free to unmute yourself.",
+    "answer": "Hey, thanks guys for taking the question. So, I have a question on deploying like robotaxis in June in Austin. So that's great news. And I was wondering if it means I can drive down to Austin in June and try unsupervised by myself with my car, or it's going to be more like your fleet testing it? It'll be our fleet testing it. That's our sort of toe in the water. We'll be scrutinizing it very carefully, make sure it's not something we missed. But it will be, autonomous ride-hailing for money in Austin in June. And then as shortly as possible other cities in America. And I expect us to be operating, doing unsupervised activity with our internal fleet in several cities by the end of the year. Then it's probably next year when people are able to add or subtract their car from the fleet. So, kind of like Airbnb where you can sort of add or subtract your house or your guest room, you can say like add it to the Airbnb inventory or don't add it to the Airbnb inventory. If you're traveling for a month, or whatever, in case maybe you can, that other people use your house. Anyway, that's probably next year because we want to just make sure we've ironed out any kinks. And a lot of it is, it's not like we're not splitting the atom here. It's just a bunch of work that needs to be done to make sure the whole thing works efficiently, that people can order the car. It comes, it's the right spot, does exactly the right thing. All the payment systems work. The billing works. Yeah. Okay. But then, like, so my follow-up question would be, I have a Tesla, I have a FSD, and I have to keep my eyes on the road all the time. It's super boring because I don't really need to intervene anymore. And the really annoying thing is that I can't just check my emails. And so are you working also on introducing, like a kind of like free and supervised where I could be eyes off and I would be able to check my email and we just need to, with a five second notice, have to go back and keep an eye on what's happening or is that something you're working on as well? Because it feels so close with this certain that I wonder if it's something you'd expect for this year. It's a very sensitive question. I asked for myself to be honest. Yes, we just need -- we need to be very confident that the probability of injury is low before we allow people to check with their email and text messages. In fact, right now we're in this perverse situation, which you may have encountered yourself where people will actually go to manual driving to check their text messages so the computer doesn't yell at them and then go then put it back on autonomous mode once they have checked the text messages, which is obviously less safe, significantly less safe, significantly less safe than just letting people check their text once in a while without the computer yelling at them. But we just want to be cautious about the advent that we're in this sort of, neither here nor there, but just for, I mean, I think it's not for many months longer. But yeah, we're in this perverse situation where people will turn the car off autopilot so the computer doesn't yell at them, check the text messages while steering the car with their knee and not looking out the window. And like Elon said, if you have any problems with the system and when people are not looking, that is a dangerous thing. And that's what we're trying to avoid. The capability is getting there, but it's not fully there. That's why he was using the term of tipping a toe in the water, then getting comfortable, then keeping going. Yeah. Anyway, it's not far off. But we would not want to prove to ourselves and also prove to regulators that the car is unequivocally safer in autonomous mode than not. And that's, we're not far off. So, this is like low single-digit months. To the safety aspect, we did publish our Vehicle Safety Report today. And then Q4 is one crash for every 5.9 million miles driven compared to a crash every 700,000 miles without… We're getting to the point where it's an order of magnitude. Yeah, it's like 8.5 times safer. So it's just about there. It's amazing. Great. Alrighty. And our last question will be coming from Dan Levy at Barclays. Dan, feel free to unmute yourself. Great. Good evening. Thank you for taking other questions. Elon, you've talked about the need for proliferation of sustainable transport in the past as part of sort of broader push to sustainable energy. Look, I know we've heard a lot about President Trump's plans to reverse the EV Mandate and I think there's a view that given regulation is a driver of EV uptake, this could slow EV uptake in the US. So, what would be your view on the right policy in the US, given your comments in the past of the need to push for sustainable transport? At this point, I think that sustainable transport is inevitable. I'm highly confident that all transport will be autonomous electric, including aircraft, and that it simply, it can't be stopped any more than one could have stopped the advent of the external combustion engine, steam engine, or one could have stopped the advent of the internal combustion engine. Like, even if you've been the biggest [indiscerinble] advocate on earth, like courses of the way, not these newfangled car automobiles, you can't stop the advent of automobile. It's going to happen. And you can't stop the advent of electric cars. It's going to happen. The only thing holding back electric cars was range, and that is the sole problem. Great. And then as a follow up, in the past, Elon, you had made a comment that, you'd be willing to sell cars at effectively no margin to get the cars out there. And there's a comment in the release today of the rate of acceleration of autonomy efforts does impact volume growth. So perhaps you could just talk about, with your efforts on FSD, how we should think about your desire to put more vehicles out in the market to take advantage of your tech advances. So, I'm not sure I understand the question. We have a lot of cars. I mean, we've got millions of cars out there. So, is your question, Dan, that how do we marry our future growth aspects with FSD? Go ahead and unmute yourself, Dan. Yeah. More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on FSD. Well, right now, the constraint we're trying to solve is battery production as opposed to demand. So, there are -- now Q1, we've got this massive factory retooling for the new Model Y, for example. That obviously has a short-term impact on output. But the problem we are seeing with, in fact, we're talking that the executive team and I were talking about just before this call was we've got to figure out how to increase total gigawatt hours of battery production this year one way or another. That's the constraint on our output. Great. Alrighty. And with that, I think we are all done for today. So, thanks, everyone, so much for all your questions. We look forward to talking to you next quarter. Thank you very much, and goodbye.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Elyse Greenspan",
+    "question": "My first question since you guys are calling out the pension income and then obviously, we have the free cash flow update. Does that mean that you took another look, I guess, at the '24 guidance? And that you have confidence in the other components of the financial plan, your revenue target and margin goals? And so the only, I guess, component that there's concern about is pension income?",
+    "answer": "Elyse, I think we're making great progress on our revenue goals and our margin goals. And things that we can control, we are driving through the organization and driving hard, and we're very happy with the progress we've made to date. The reason we call out the pensions is that's driven by external interest rates and capital market returns. And despite having a market-leading investment business, those aren't things we can control.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Michael Zaremski",
+    "question": "So pension income, any thoughts about the potential to close out some of the pension plans is that a possibility to take advantage of higher rates. Some of your peers have taken some structural actions and charges over the last many years to kind of minimize that volatility? Or does that just not make sense from an economic perspective?",
+    "answer": "Our pension design is actually pretty immune. The open plan of the U.S., right, is the one where you design changes might do anything. And that's one where we've actually made design changes over prior years to reduce a lot of the volatility associated with a traditional defined benefit design. Our big plan in the U.K. is basically doesn't have accruals for people anymore. So design changes wouldn't do anything there. And the investment strategy we run against these plans is designed to largely preserve the funded status of the plan. despite capital market interest rate fluctuations. And actually, if you look at the pension footnote, you'll see that those strategies did exactly what they were supposed to do during last year. So we're pretty happy with how we manage the plans for stability.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 1,
+    "year": 2023,
+    "analyst": "Michael Zaremski",
+    "question": "Okay. That's clear. Okay. Last question. Just very good results in Health wealth career. Just curious, with a 1% GDP backdrop in 1Q, were results surprising to you? One of your peers recently said on their earnings call that they feel that some of the services they provide are currently deemed to be a little less discretionary than they've been in prior decades in kind of as the company sort out this post-pandemic world. Any thoughts there?",
+    "answer": "Yes. We'll speak to the peers, but I think the team has done a great job over the years of positioning us for growth under all sorts of different conditions. And I do think that the relevance of the services we offer is as high as it's ever been, right? I mean there is demand in our wealth business for pension risk management solutions that are indeed a bit more feasible under current economic conditions for pension plan sponsors. There has been strong demand for our health business, project activity due to legislative changes in North America and our continued expansion of our client base and helping our clients deal with health care inflation and the effect on their costs. And in our career business, where over the years, we've taken strong steps to make sure that -- there's less of an emphasis on discretionary project work and more on software recurring revenue continues to grow and our -- the software licensing that we're doing in that business has been a substantial part of that. So yes, we're quite happy. And I guess I'd point out, generally, employers are still struggling with the new ways of working and the advice we can help to help them cope with sort of the new normal in terms and sort of the fact that despite any potential recessionary as employment levels still remain very high. I do remain optimistic about the demand for our services in that area.",
+    "label": "EVASIVE",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Robert Cox",
+    "question": "Great. Just a follow-up. I think there were some updated rules from CMS regarding Medicare Advantage broker compensation, have you been able to assess if there is an expected impact transact from any of those changes?",
+    "answer": "So the final CMS rules for '25 that address marketing and Medicare Advantage plans in the U.S. was released in early April, right? So not all that long ago. The good news of the final rule was less onerous on the proposed role in a number of ways. And while there's still some uncertainties about all of its provisions are going to be implemented, but it's not causing us to change our outlook for the year. We've been actively engaged with the carriers in this space. They have reiterated the important role that we play in the distribution of Medicare insurance solutions and the valuable services we provide beneficiaries. I guess, I just close that by saying managing regulatory change is a regular part of our business. And I think we've been quite successful in navigating these sort of changes in the past. We will continue to do so in the future.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 1,
+    "year": 2024,
+    "analyst": "Michael Ward",
+    "question": "Just on the unallocated expense items. Just wondering if you have any expectations for the rest of the year? And does that kind of depend on interest rate levels?",
+    "answer": "So the unallocated net for the full year, we expect to be relatively consistent with 2023 on a 12-month basis. What you're seeing there right now is the outcome of driving down expenses at the corporate level focused on enhancing the margin profile of the company going forward. Some examples of that include things like refining our corporate support model for the businesses. as well as managing discretionary spend. So that's really where it manifests itself in the unallocated net this quarter. And again, for the full year, should be relatively consistent with last year.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Jon Newsome",
+    "question": "I had another sort of book of sale question. If we're looking at the profit margin of the businesses, you're looking -- you're using through book sales versus the rest of the business, are those book sales businesses have similar margins? Or is that another sort of source of margin compression for the company as these businesses are sold away?",
+    "answer": "Yes. The books that we're selling generally have the same economic profile and margin profile as the broader business. So there's nothing specific about the margins of the businesses or books that we're selling.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Unidentified Analyst",
+    "question": "Yes, yes, yes.",
+    "answer": "No. I think as Carl just alluded to, we do see continued opportunity for talent in the market. So we're not sort of filling gaps at this point as we had been historically. This is more about leaning forward and being on the offensive with regard to our talent investment strategy where we continue to see really strong opportunity for talent that aligns with our specialization strategy.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Michael Zaremski",
+    "question": "Okay. Great. And on the free cash flow, thanks for the added color. I just want to confirm that the pension income levels or the pension changes in terms of the impacting your EPS that doesn't flow through to cash flow, right?",
+    "answer": "Correct. The pension income is noncash.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Michael Zaremski",
+    "question": "Okay. Got it. Okay. Switching gears to the segments. You've talked a lot about and you have been for a number of quarters by investing in talent opportunistically, is this also happening in the Health, Wealth and Career segment a bit? I just asked because margins were a little light there as well versus expectations.",
+    "answer": "So we do see talent as flocking to the flag, right, in HWC as well. Although I think it's a bit different positionally than it is with -- as opposed to R&B. In that we've got a very, very successful leading wealth business. And with already, I think, a very good market position. So we don't -- you wouldn't typically see large-scale recruiting going on in that business. The recruiting is more focused on health and benefits where we do see the opportunity to gain market share. And we're just -- we think our position in broking globally is one where we can continue to capitalize.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 2,
+    "year": 2023,
+    "analyst": "Yaron Kinar",
+    "question": "I thought you'd also talked about the pressure from higher interest rate environments on M&A activity and on operating costs, right?",
+    "answer": "No. I mean, we -- I think the puts and takes are a little hard to work out, right? But we do have a large scale as do others, right, M&A-focused brokering business and the freeze in that marketplace is obviously quite unhelpful on that side. So it's as I said, it's a bit more complex.",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 2,
+    "year": 2024,
+    "analyst": "Paul Newsome",
+    "question": "Okay. I wanted to ask one just. I will let others ask questions. Appreciate the help as always.",
+    "answer": "Thank you.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Shlomo Rosenbaum",
+    "question": "Okay. Thank you.",
+    "answer": "Thanks.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Michael Ward",
+    "question": "Thanks guys. Good morning.",
+    "answer": "Would you start the question, Michael?",
+    "label": "EVASIVE",
+    "confidence": 0.95
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 3,
+    "year": 2023,
+    "analyst": "Mark Shields",
+    "question": "Great. Good morning. Can you hear me?",
+    "answer": "Yes, Mark.",
+    "label": "EVASIVE",
+    "confidence": 0.95
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 3,
+    "year": 2024,
+    "analyst": "Peter Newton",
+    "question": "No, that was for ICT. Yeah, thank you.",
+    "answer": "Okay. Yeah, I mean, we're continuing to see strong demand for our technology solutions. And the way we've built ICT over the years is that a lot of the consulting works its way around the technology. So it's helping clients maximize the value they get from that technology. So when technology leads, consulting will often follow. But there are some areas within ICT that can be sort of very cyclical and dependent on sort of various activity, including M&A and securities issuance in conjunction with M&A by insurance companies. So we've been through these cycles before and we adjust to them and make sure that we can kind of keep the business pointed in the right direction. One of the things we've very successfully done over the last 10 or so years is actually changed the mix between consulting and technology to be far more balanced than by 50-50, which lowers the cyclicality of the business and makes it just a bit more resilient. That being said, some of the technology sales are recorded at the time of the sale rather than spread over the life of the contract. So you get a little lumpiness in the results. That smooth its way out between quarters, but you might have some lumpiness within the quarter.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Mark Hughes",
+    "question": "Yes, that's right.",
+    "answer": "Yeah. I mean we think the combination of our global footprint, our specialization approach and our industry leading analytics offer a compelling proposition to clients facing, the challenges that this macroeconomic environment can lead them to, right? So, the extent we can help our clients manage things like natural disaster, social inflation, geopolitical conflicts, right, our customized tools our specialist approach can help ensure that clients get the best return for their premium dollar across their entire portfolio for instance. That's what that's all about.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "Andrew Kligerman",
+    "question": "Right.",
+    "answer": "With regard to our strategic client engagement, I think I look at it this way. We're trying to deliver best-in-class service to our client base and that involves making sure we understand their risks better than anybody else and that is a specialization and then it's fulfilling their needs, right? There's client engagement which is equally important. So I view this as -- and not a but. And one of the primary focuses of the strategic client engagement concept is really going to be a focus on the industry verticals, but in particular, think about Fortune 1000 type clients where risk profiles may be more expensive and more complex than other organizations.",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 4,
+    "year": 2023,
+    "analyst": "End of Q&A",
+    "question": "",
+    "answer": "So, thank you all again for joining us. I appreciate all of our WTW colleagues globally who have worked tirelessly to help us end the year on such a strong note. I am proud of everything we've achieved in 2023. I look forward to us keeping up the momentum for 2024.",
+    "label": "EVASIVE",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Alex Scott",
+    "question": "Yes, yes. Specifically Risk & Broking, yes, sorry.",
+    "answer": "Okay, yes. I just wanted to be clear. I mean the market other stabilized in the fourth quarter. I mean most lines of insurance are sort of positive outcomes for our clients and insurers are continuing to look for growth, and that's leading to increased competition in the market. The market remains especially advantageous for well risk managed non-cat driven and loss-free clients. From a geographic point of view, Asia Pacific and Latin America are leading the market shift towards softening, where local market supply and the international insurers or markets compete and that lead better results for our clients. Most property lines continue to be stable to improving for our clients with some rate reductions available depending on the risk profile. Rate reductions are still available, but decelerating in cyber and kind of showing professional lines. And the Global Casualty Market in contrast remains rather firm with the North American market, maybe except for workers' comp still challenging. Overall, we don't view rate as a significant headwind, or tailwind across our R&B portfolio in terms of how it impacts us this past quarter, or during the year. Our growth was driven primarily by high retention, rates and new business as well as the investments we talked about earlier, we've made over the last few years, and the reorientation of the R&B business towards specialization, we think that's really made a difference for us and will continue to differentiate us.",
+    "label": "DIRECT",
+    "confidence": 0.8
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Mark Hughes",
+    "question": "Yes, thank you. Good morning. Andrew the 18.4% normalized free cash, is that recast for the capitalized software cost. It looks like it's about 110 bps. Is that already include that headwind?",
+    "answer": "Yes. No. So the 18.4% that I referenced is on a current calculation basis, it's not the new go forward, which will start in 2025 with Q1.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Mark Hughes",
+    "question": "So as a baseline, we might take that 110 bps out, call it, 17.3%. Is that fair?",
+    "answer": "Yes. That's fair on a normalized basis, correct.",
+    "label": "DIRECT",
+    "confidence": 0.9
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "Joshua Shanker",
+    "question": "Great. And in terms of two things that were sort of worry about, there's some concern about the potential for recession. There's also maybe more at the forefront, it concerns about inflation confronted with both recession and inflation simultaneously, did the two net each other out in the way that your revenues are generated? Or is one a bigger impact on your faith than the other?",
+    "answer": "Yes. Remember those fabulous 70s, I guess, is what you're saying, thinking about climates like that. I think that there is a different - some of the parts that are across the business can work in very different ways. I mean, inflation will affect the price of insurance as well as asset values that will help us in terms of our commission-based income in both segments, as well as the asset-based fees we may be getting in with the wealth business. It does affect, of course, our compensation costs. But as I just alluded to, we've got some control over that. And we've also been able to manage for the past couple of decades through efforts like our right real estate right workforce location programs, to be able to help manage our biggest chunk of costs across the organization, which is comp [ph]. So we think that, because of flexibility we've engendered in this organization, increasingly so over the last three years, we're pretty well positioned to weather all sorts of economic and climates, including stagflation.",
+    "label": "EVASIVE",
+    "confidence": 0.6
+  },
+  {
+    "symbol": "WTW",
+    "quarter": 4,
+    "year": 2024,
+    "analyst": "David Motemaden",
+    "question": "Hi good morning. I had a bigger picture margin question just around the natural operating leverage for the enterprise, just sort of growing revenues faster than expenses. I believe in 2021, and I know I'm going back, but back then, you guys had called out around 70 basis points a year of natural operating leverage, but the mix has changed a bit since then. So I'm wondering if that still stands as a good baseline to consider before thinking about some of the other moving pieces here in 2025?",
+    "answer": "I think that may have been relevant at that time with that business mix as you suggested. I think there were obviously several components that are no longer part of the business portfolio. So I think - I do think the best way to think about it now is what I was alluding to earlier, which is the 100 basis points on average over the next three years in R&B, continued incremental margin improvement in HWC. Which already has very high margins, and then factoring in the tailwind at the enterprise level for divestiture of TRANZACT. So I think if you think about that, weight the portfolio, that's probably the best way to think about sort of the margin expansion opportunity going forward.",
+    "label": "EVASIVE",
+    "confidence": 0.7
+  }
+]

@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Node
+node_modules/
+
+# React build
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+uploads/
+
+# ChromaDB vector database
+chroma_db/
+
+checkpoints/
+
+data/processed
+data/financial_data
+data/guidance_extracted
+data/raw_transcripts
+ml_models/08_lstm.ipynb
+ml_models/evasion_testing.ipynb
+datasets/
+**/checkpoints/
+# Trained models
+evasion/final/
+sentiment/final/
+fulfillment/final/
+
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
