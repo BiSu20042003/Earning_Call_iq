@@ -1,6 +1,7 @@
 import os
 import json
 import time
+import hashlib
 import torch
 import numpy as np
 from typing import List, Dict
@@ -35,6 +36,9 @@ _chroma_client = None
 _doc_chunks: Dict[str, List[Dict]] = {}
 _doc_bm25: Dict[str, BM25Okapi] = {}
 
+RETENTION_DAYS = 15
+RETENTION_SECONDS = RETENTION_DAYS * 24 * 60 * 60
+
 
 def get_embedding_model():
     global _embedding_model
@@ -56,19 +60,16 @@ def get_reranker():
     return _reranker
 
 
-CHROMA_PATH = os.path.join(os.getcwd(), "chroma_db_store")
 def get_chroma_client():
     global _chroma_client
     if _chroma_client is None:
-        _chroma_client = chromadb.PersistentClient(path=CHROMA_PATH)
+        _chroma_client = chromadb.CloudClient(
+            api_key=os.getenv("CHROMA_API_KEY"),
+            tenant=os.getenv("CHROMA_TENANT"),
+            database=os.getenv("CHROMA_DATABASE")
+        )
     return _chroma_client
-# def get_chroma_client() -> chromadb.Client:
-#     global _chroma_client
-#     if _chroma_client is None:
-#         _chroma_client = chromadb.Client(
-#             Settings(anonymized_telemetry=False)
-#         )
-#     return _chroma_client
+
 
 
 def extract_text_from_file(file_path: str):
@@ -106,7 +107,7 @@ def split_docs(documents, chunk_size=512, chunk_overlap=64):
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=chunk_overlap,
-        length_function=len,
+        length_function=len, #512 char
         separators=["\n\n", "\n", ". ", "! ", "? ", " ", ""]
     )
     
@@ -132,11 +133,112 @@ def split_docs(documents, chunk_size=512, chunk_overlap=64):
     return processed_chunks
 
 
+def calculate_file_hash(file_path: str) -> str:
+    """
+    Calculate SHA-256 hash of the uploaded file.
+    Used to detect duplicate transcripts.
+    """
+    sha256 = hashlib.sha256()
+
+    with open(file_path, "rb") as f:
+        for block in iter(lambda: f.read(1024 * 1024), b""):
+            sha256.update(block)
+
+    return sha256.hexdigest()
+
+
+def find_existing_document(file_hash: str):
+    client = get_chroma_client()
+    now = time.time()
+
+    for collection in client.list_collections():
+
+        if isinstance(collection, str):
+            collection = client.get_collection(collection)
+        metadata = collection.metadata or {}
+
+        # FIRST CHECK EXPIRY
+        expires_at = metadata.get("expires_at")
+
+        if expires_at is not None and float(expires_at) <= now:
+            expired_doc_id = metadata.get("doc_id")
+
+            print(f"Deleting expired collection: {collection.name}")
+            client.delete_collection(collection.name)
+
+            if expired_doc_id:
+                _doc_chunks.pop(expired_doc_id, None)
+                _doc_bm25.pop(expired_doc_id, None)
+            continue
+
+        # COLLECTION IS VALID → CHECK FILE HASH
+        if metadata.get("file_hash") != file_hash:
+            continue
+
+        # VALID + MATCHING DOCUMENT FOUND
+        doc_id = metadata.get("doc_id")
+
+        result = collection.get(
+            include=["documents", "metadatas"]
+        )
+
+        documents = result.get("documents", [])
+        metadatas = result.get("metadatas", [])
+
+        chunks = []
+
+        for text, chunk_metadata in zip(documents,metadatas):
+            chunk_metadata = chunk_metadata or {}
+
+            chunks.append({
+                "chunk_id": int(chunk_metadata["chunk_id"]),
+                "page_num": int(chunk_metadata["page_num"]),
+                "text": text,
+                "word_count": int(
+                    chunk_metadata["word_count"]
+                )
+            })
+
+        chunks.sort(key=lambda x: x["chunk_id"])
+
+        # Build BM25 from the stored chunks
+        tokenized = [
+            c["text"].lower().split()
+            for c in chunks
+        ]
+
+        bm25 = BM25Okapi(tokenized)
+
+        _doc_chunks[doc_id] = chunks
+        _doc_bm25[doc_id] = bm25
+
+        print(f"Existing valid transcript found: {doc_id}")
+
+        return {
+            "doc_id": doc_id,
+            "collection_name": collection.name,
+            "created_at": metadata.get("created_at"),
+            "expires_at": expires_at
+        }
+
+    return None
+
+
 def index_document(doc_id, file_path, qa_results: list = None):
     """
     Step 1 (First function called after file upload):
     Index document into ChromaDB + BM25 index for the given doc_id.
     """
+    #  Calculate file hash
+    file_hash = calculate_file_hash(file_path)
+
+    #  Check if this exact transcript already exists
+    existing = find_existing_document(file_hash)
+
+    if existing:
+        print(f"Using existing document: " f"{existing['doc_id']}")
+        return existing
+
     emb_model = get_embedding_model()
     client = get_chroma_client()
 
@@ -147,24 +249,19 @@ def index_document(doc_id, file_path, qa_results: list = None):
     if not chunks:
         raise ValueError("Failed to extract any readable text from the document.")
 
-    # 2. Re-create Vector Collection
-    collection_name = f"doc_{doc_id[:8]}"
-    try:
-        client.delete_collection(collection_name)
-    except Exception:
-        pass
-
-
-
     current_time = time.time()
-    collection = client.create_collection(
-        name=collection_name,
-        metadata={
-            "hnsw:space": "cosine",
-            "created_at": current_time 
-        }
-    )
+    expires_at = current_time + RETENTION_SECONDS
 
+    collection = client.create_collection(
+    name=collection_name,
+    metadata={
+        "hnsw:space": "cosine",
+        "doc_id": doc_id,
+        "file_hash": file_hash,
+        "created_at": current_time,
+        "expires_at": expires_at
+    }
+)
     # 3. Embed & Store Chunks
     texts = [c["text"] for c in chunks]
     embeddings = emb_model.encode(
@@ -196,6 +293,66 @@ def index_document(doc_id, file_path, qa_results: list = None):
 
     return len(chunks)
 
+def load_chunks(doc_id: str):
+    """
+    Load an existing document's chunks from ChromaDB
+    and rebuild its BM25 index.
+    """
+
+    client = get_chroma_client()
+    collection_name = f"doc_{doc_id[:8]}"
+
+    try:
+        collection = client.get_collection(collection_name)
+    except Exception:
+        print(f"Document not found in ChromaDB: {doc_id}")
+        return None, None
+
+    # 1. Check expiry
+    metadata = collection.metadata or {}
+
+    expires_at = metadata.get("expires_at")
+    if expires_at is not None and float(expires_at) <= time.time():
+        print(f"Document expired: {doc_id}")
+
+        client.delete_collection(collection.name)
+        return None, None
+
+    # 2. Get chunks from ChromaDB
+    result = collection.get(
+        include=["documents", "metadatas"]
+    )
+
+    documents = result.get("documents", [])
+    metadatas = result.get("metadatas", [])
+
+    if not documents:
+        print(f"No chunks found for document: {doc_id}")
+        return None, None
+
+    # 3. Reconstruct chunks
+    chunks = []
+    for text, metadata in zip(documents, metadatas):
+        metadata = metadata or {}
+        chunks.append({
+            "chunk_id": int(metadata["chunk_id"]),
+            "page_num": int(metadata["page_num"]),
+            "text": text,
+            "word_count": int(metadata["word_count"])
+        })
+
+    # Keep original chunk order
+    chunks.sort(key=lambda x: x["chunk_id"])
+
+    # 4. Rebuild BM25
+    tokenized = [
+        c["text"].lower().split()
+        for c in chunks
+    ]
+
+    bm25 = BM25Okapi(tokenized)
+    return chunks, bm25
+
 
 def query_document(doc_id: str, question: str, top_k: int = 20, top_n: int = 5, alpha: float = 0.6) -> Dict:
     """
@@ -210,15 +367,18 @@ def query_document(doc_id: str, question: str, top_k: int = 20, top_n: int = 5, 
     bm25 = _doc_bm25.get(doc_id)
 
     if not chunks or not bm25:
-        return {
-            "answer": "Document index not found in active session. Please upload/index the document again.",
-            "sources": []
-        }
+        chunks, bm25 = load_chunks(doc_id)
+        
+        if not chunks or not bm25:
+            return {
+                "answer": "Document index not found. Please upload/index the document again.",
+                "sources": []
+            }
 
     collection_name = f"doc_{doc_id[:8]}"
     collection = client.get_collection(collection_name)
 
-    # --- 1. Semantic Retrieval ---
+    # Semantic Retrieval
     q_emb = emb_model.encode(
         question,
         normalize_embeddings=True,
@@ -235,7 +395,7 @@ def query_document(doc_id: str, question: str, top_k: int = 20, top_n: int = 5, 
             cid = int(cid_str.replace("chunk_", ""))
             semantic_scores[cid] = 1.0 - dist
 
-    # --- 2. BM25 Retrieval ---
+    # BM25 Retrieval
     bm25_raw = bm25.get_scores(question.lower().split())
     max_bm25 = max(bm25_raw) if max(bm25_raw) > 0 else 1.0
     bm25_norm = bm25_raw / max_bm25
@@ -243,13 +403,20 @@ def query_document(doc_id: str, question: str, top_k: int = 20, top_n: int = 5, 
     top_bm25_indices = np.argsort(bm25_norm)[::-1][:top_k]
     top_bm25 = {idx: float(bm25_norm[idx]) for idx in top_bm25_indices}
 
-    # --- 3. Hybrid Fusion Scorer ---
+    # Hybrid Fusion Scorer 
     all_cids = set(semantic_scores.keys()) | set(top_bm25.keys())
     combined = []
     print("Number of chunks:", len(chunks))
     print("Reranked:", all_cids)
 
+    chunk_map = {
+        c["chunk_id"]: c
+        for c in chunks
+    }
+
     for cid in all_cids:
+        if cid not in chunk_map:
+            continue
         sem_s = semantic_scores.get(cid, 0.0)
         bm25_s = top_bm25.get(cid, 0.0)
         combined.append({
@@ -260,7 +427,6 @@ def query_document(doc_id: str, question: str, top_k: int = 20, top_n: int = 5, 
     combined.sort(key=lambda x: x["combined_score"], reverse=True)
     candidates = combined[:top_k]
 
-    # --- 4. Cross-Encoder Reranking with Threshold Filtering ---
     if not candidates:
         return {
             "answer": "No matching content retrieved for this question.",
@@ -273,8 +439,6 @@ def query_document(doc_id: str, question: str, top_k: int = 20, top_n: int = 5, 
     valid_candidates = []
     for i, candidate in enumerate(candidates):
         score = float(rerank_scores[i])
-        # STRICT FILTER: Discard low confidence/irrelevant matches
-        #if score > 0.0:
         candidate["rerank_score"] = score
         valid_candidates.append(candidate)
 
@@ -287,7 +451,7 @@ def query_document(doc_id: str, question: str, top_k: int = 20, top_n: int = 5, 
             "sources": []
         }
 
-    # --- 5. Context Construction & Groq Generation ---
+    # Context Construction
     context_parts = [
         f"[Source {i+1} — Page {c['page_num']}]\n{c['text']}"
         for i, c in enumerate(final_chunks)

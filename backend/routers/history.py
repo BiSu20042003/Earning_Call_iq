@@ -27,7 +27,7 @@ async def get_history(db: Session = Depends(get_db)):
     result = []
     
     for doc in documents:
-        analysis = analysis_map.get(doc.id)
+        analysis = analysis_mp.get(doc.id)
 
         result.append(HistoryItem(
             document_id = doc.id,
