@@ -18,9 +18,7 @@ def extract_speakers(text):
     Uses the LLM only to identify every unique speaker appearing
     in the transcript.
 
-    Returns
-    -------
-    list[str]
+    Returns: list[str]
         Exact speaker strings sorted by descending length.
     """
 
@@ -70,18 +68,11 @@ Example output:
     config=types.GenerateContentConfig(
         system_instruction=prompt,
         response_mime_type="application/json",
-        temperature=0.5
+        temperature=0.3
     )
     )
 
     text = response.text
-
-    # print("="*80)
-    # print("RAW RESPONSE")
-    # print(repr(text))
-    # print("="*80)
-
-    text = text.strip()
     text = text.replace("```json", "").replace("```", "").strip()
     try:
         data = json.loads(text)
@@ -101,11 +92,9 @@ Example output:
 
     except Exception as e:
         print(e)
-        # Safe fallback
         return [], None, None, None, None
 
 def to_structured_content(text, speakers):
-
     # Match longer names first
     speakers = sorted(speakers, key=len, reverse=True)
 
@@ -115,7 +104,6 @@ def to_structured_content(text, speakers):
     current_text = ""
 
     for line in text.split("\n"):
-
         line = line.strip()
 
         if not line:
@@ -124,11 +112,8 @@ def to_structured_content(text, speakers):
         found = False
 
         for speaker in speakers:
-
             idx = line.lower().find(speaker.lower())
-
             if idx != -1:
-
                 # Save previous speaker block
                 if current_text.strip():
                     structured.append({
@@ -140,10 +125,9 @@ def to_structured_content(text, speakers):
 
                 # Everything after the speaker name belongs to speech
                 spoken = line[idx + len(speaker):]
-                spoken = spoken.lstrip(" :-,\t")
+                spoken = spoken.lstrip(" :-,\t") # remove from left (start)
 
                 current_text = spoken
-
                 found = True
                 break
 
@@ -172,17 +156,17 @@ def load_transcript(filepath):
         return {
             "structured_content": raw["structured_content"],
             "content": raw["content"],
-            "symbol": raw.get("symbol", "UNKNOWN"),
-            "company_name": raw.get("company_name", "UNKNOWN"),
-            "quarter": raw.get("quarter"),
-            "year": raw.get("year"),
-            "date": raw.get("date")
+            "symbol": raw["symbol"] if "symbol" in raw else "UNKNOWN",
+            "company_name": raw["company_name"] if "company_name" in raw else "UNKNOWN",
+            "quarter": raw["quarter"] if "quarter" in raw else None,
+            "year": raw["year"] if "year" in raw else None,
+            "date": raw["date"] if "date" in raw else None
         }
 
     # ---------- PDF ----------
     elif str(filepath).endswith(".pdf"):
         filepath = Path(filepath)
-        with fitz.open(filepath) as doc:
+        with fitz.open(filepath) as doc: # list of pages
             full_text = "\n".join(page.get_text("text") for page in doc)
         
         # with open("sample.txt", "w") as f:
@@ -220,7 +204,7 @@ def find_qa_start(structured_content):
             if starts_qa:
                 print(f"Starting index found in 'find_qa_start' is {i}")
                 return i
-    return int(len(structured_content) * 0.6)
+    return int(len(structured_content) * 0.4)
 
 def extract_qa_pairs(qa_section):
     pairs = []
@@ -274,8 +258,19 @@ NUMBER_PATTERN = re.compile(
 def is_genuine_pair(question, answer):
     q = question.lower().strip()
     word_count = len(q.split())
-    has_greeting = any(phrase in q for phrase in greeting_phrases)
-    has_question_word = any(word in q for word in question_words)
+
+    has_greeting = False
+    for phrase in greeting_phrases:
+        if phrase in q:
+            has_greeting = True
+            break    
+    
+    has_question_word = False
+    for word in question_words:
+        if word in q:
+            has_question_word = True
+            break
+    
     has_question_mark = "?" in q
     answer_has_number = bool(NUMBER_PATTERN.search(answer))
 
@@ -288,19 +283,17 @@ def is_genuine_pair(question, answer):
         return False
 
     return True
+
 # FIND AND SEPERATE QnA 
 def split_sections(structured_content):
     qna_start = find_qa_start(structured_content)
     pre_qna = structured_content[:qna_start]
     qna_section = structured_content[qna_start:]
-    print("QnA start from: ") 
-    print(structured_content[qna_start])
     qna_pairs = extract_qa_pairs(qna_section)
     return pre_qna, qna_pairs
 
+
 guidance_words = ["we expect", "we anticipate", "we project", "we forecast", "going forward", "outlook", "next quarter", "full year"]
-
-
 # EXTRACT GUIDANCE SENTENCES 
 def extract_guidance_sentences(text):    
     sentences = text.split(". ")
