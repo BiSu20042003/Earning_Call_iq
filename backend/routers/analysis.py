@@ -2,8 +2,6 @@
 Analysis router.
 Runs the full ML pipeline on an uploaded document.
 """
-
-import re
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from pathlib import Path
@@ -108,41 +106,6 @@ No other text."""
         return []
 
 
-
-
-def extract_guidance_sentences(text):
-    """
-    Extract forward-looking guidance sentences from transcript.
-    """
-
-    guidance_words = [
-        "we expect",
-        "we anticipate",
-        "we project",
-        "we forecast",
-        "going forward",
-        "outlook",
-        "next quarter",
-        "full year",
-        "full-year",
-        "will grow"
-    ]
-
-    # Split into sentences
-    sentences = re.split(r'(?<=[.!?])\s+', text)
-    guidance_sentences = []
-    for sentence in sentences:
-        sentence_lower = sentence.lower()
-        if len(sentence.split()) <= 8:
-            continue
-        for word in guidance_words:
-            if word in sentence_lower:
-                guidance_sentences.append(sentence.strip())
-                break
-
-    return guidance_sentences
-
-
 def compute_risk_score(sentiment, evasion, qa_pairs):
     """
     Compute an overall financial risk score (0-100)
@@ -174,7 +137,7 @@ async def analyze_document(doc_id, db = Depends(get_db)):
     4. Guidance extraction
     5. Fulfillment probability prediction
     6. Risk score aggregation
-    7. Save to PostgreSQL
+    7. Save to db
     """
     # Load document
     document = db.query(Document).filter(Document.id == doc_id).first()

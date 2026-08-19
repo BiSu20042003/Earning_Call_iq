@@ -38,8 +38,9 @@ def predict_evasion(question, answer, threshold=0.40):
         logits = model(**enc).logits #Others: .hidden_states, .attentions
 
     probs      = torch.softmax(logits, dim=-1)
-    direct_prob = probs[0][0].item()
-    evasive_prob = probs[0][1].item()
+    p = prob[0] # one QnA pair, so only one row
+    direct_prob = p[0].item()
+    evasive_prob = p[1].item()
     prediction = "EVASIVE" if evasive_prob >= threshold else "DIRECT"
   
     confidence = evasive_prob if prediction=="EVASIVE" else direct_prob

@@ -23,9 +23,7 @@ UPLOAD_DIR.mkdir(exist_ok=True)
 @router.post("/upload", response_model=DocumentResponse)
 async def upload_transcript(file = File(...),db:Session= Depends(get_db)):
     """
-    Upload a transcript PDF or TXT file.
-    Saves file, extracts metadata, indexes for RAG.
-    Returns document_id for subsequent analysis and chat requests.
+    Upload a transcript PDF or JSON file.
     """
     # Validate file type
     if not file.filename.lower().endswith((".pdf",".json")):
@@ -42,7 +40,7 @@ async def upload_transcript(file = File(...),db:Session= Depends(get_db)):
     with open(file_path, "wb") as f:
         f.write(content)
 
-    # Extract basic metadata from PDF
+    # Extract metadata from PDF
     page_count = 0
     word_count = 0
     if file.filename.lower().endswith(".pdf"):
@@ -57,7 +55,7 @@ async def upload_transcript(file = File(...),db:Session= Depends(get_db)):
         except Exception as e:
             print(f"Metadata extraction failed: {e}")
 
-    # Save document record to PostgreSQL
+    # Save document record to db
     db_doc = Document(
         id = doc_id,
         filename = file.filename,
@@ -67,7 +65,7 @@ async def upload_transcript(file = File(...),db:Session= Depends(get_db)):
     db.commit()
     db.refresh(db_doc)
 
-    # Index document for RAG (background-friendly — runs immediately here)
+    # Index document for RAG 
     try:
         chunks_indexed = rag_service.index_document(doc_id, str(file_path))
         print(f"Indexed {chunks_indexed} chunks for doc {doc_id}")

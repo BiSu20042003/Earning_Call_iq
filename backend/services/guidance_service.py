@@ -29,7 +29,7 @@ MEASURABLE_METRICS = [
 def contains_measurable_metric(sentence):
     sentence = sentence.lower()
     for metric in MEASURABLE_METRICS:
-        pattern = r"\b" + re.escape(metric.lower()) + r"\b"
+        pattern = r"\b" + metric.lower() + r"\b" # \b is word boundary.
         if re.search(pattern, sentence):
             return True
 
@@ -63,12 +63,7 @@ Explicit quarter references:
 """
 
 
-def extract_guidance(
-    guidance_sentences: list,
-    symbol,
-    quarter,
-    year
-) -> list:
+def extract_guidance(guidance_sentences: list,symbol,quarter,year):
     """
     Extract structured guidance claims from forward guidance sentences.
     Pre-filters by measurable metrics before calling LLM.
@@ -129,7 +124,7 @@ No other text."""
         ],
         temperature=0.1
     )
-    text = response.choices[0].message.content.strip()
+    text = response.choices[0].message.content
     text = text.replace("```json", "").replace("```", "").strip()
     try:
         result = json.loads(text)
