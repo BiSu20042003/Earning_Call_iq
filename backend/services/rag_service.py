@@ -251,6 +251,7 @@ def index_document(doc_id, file_path, qa_results: list = None):
 
     current_time = time.time()
     expires_at = current_time + RETENTION_SECONDS
+    collection_name = f"doc_{doc_id[:8]}"
 
     collection = client.create_collection(
     name=collection_name,

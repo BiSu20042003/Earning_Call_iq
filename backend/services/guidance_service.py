@@ -118,7 +118,7 @@ For each valid guidance claim, return a JSON object with exactly these fields:
 Return ONLY a JSON array of valid claims. If no valid measurable guidance found, return [].
 No other text."""
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="openai/gpt-oss-120b",
         messages=[
             {"role": "system",
              "content": "You are a strict financial analyst. Follow the instruction to find out genuine future guidance."

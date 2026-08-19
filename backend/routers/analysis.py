@@ -21,7 +21,7 @@ from backend.services import (
     transcript_parser,
 )
 from groq import Groq
-load_dotenv()
+load_dotenv("../.env", override=True)
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 router = APIRouter(prefix="/api", tags=["analysis"])
@@ -75,7 +75,7 @@ Example:
 If no valid measurable guidance found, return [].
 No other text."""
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="openai/gpt-oss-20b",
         messages=[
             {"role": "system",
              "content": "You are a strict financial analyst. Follow the instruction to find out genuine future guidance."
@@ -84,9 +84,9 @@ No other text."""
              "content": prompt
             }
         ],
-        temperature=0.1
+        temperature=0.5
     )
-    text = response.choices[0].message.content.strip()
+    text = response.choices[0].message.content
     text = text.replace("```json", "").replace("```", "").strip()
     try:
         result = json.loads(text)
